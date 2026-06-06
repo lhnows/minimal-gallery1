@@ -7,10 +7,6 @@ const navItems = [
   { name: 'Home', href: '/' },
   { name: 'Gallery', href: '/gallery' },
   { name: 'NextSmile', href: '/gallery/nextsmile' },
-  { name: 'Nature', href: '/gallery/nature' },
-  { name: 'Urban', href: '/gallery/urban' },
-  { name: 'Travel', href: '/gallery/travel' },
-  { name: 'Architecture', href: '/gallery/architecture' },
 ]
 
 export default function Navbar() {
