@@ -76,24 +76,6 @@ function readTheme(sourceDir) {
 function copyPhotos(sourceDir, filePrefix) {
   const photos = [
     {
-      files: ['01-wechat-moments-square.png'],
-      destFile: `${filePrefix}_01.png`,
-      title: '朋友圈 / 微博方图',
-      description: 'NextSmile 宣传方图',
-    },
-    {
-      files: ['02-douyin-cover-vertical.png'],
-      destFile: `${filePrefix}_02.png`,
-      title: '抖音竖版封面',
-      description: 'NextSmile 宣传竖版封面',
-    },
-    {
-      files: ['03-weibo-wide-banner.png'],
-      destFile: `${filePrefix}_03.png`,
-      title: '微博横版 / 视频开场图',
-      description: 'NextSmile 宣传横版图片',
-    },
-    {
       files: ['bg-square-original.png', '01-square-ai-raw.png', '01-square-base.png'],
       destFile: `${filePrefix}_original_01.png`,
       title: '原始无文字背景 / 方图',
@@ -110,7 +92,6 @@ function copyPhotos(sourceDir, filePrefix) {
       destFile: `${filePrefix}_original_03.png`,
       title: '原始无文字背景 / 横版',
       description: 'NextSmile 横版原始 AI 生成无文字背景',
-      optional: true,
     },
   ]
 
@@ -119,12 +100,6 @@ function copyPhotos(sourceDir, filePrefix) {
 
   return photos.flatMap((photo, index) => {
     const sourceFile = photo.files.find((file) => fs.existsSync(path.join(sourceDir, file)))
-    if (!sourceFile && photo.optional) {
-      return []
-    }
-    if (!sourceFile && photo.destFile.includes('_original_')) {
-      return []
-    }
     const source = sourceFile ? path.join(sourceDir, sourceFile) : ''
     if (!fs.existsSync(source)) {
       throw new Error(`Required image not found. Tried: ${photo.files.map((file) => path.join(sourceDir, file)).join(', ')}`)
