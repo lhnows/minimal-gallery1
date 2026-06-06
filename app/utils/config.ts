@@ -1,9 +1,7 @@
 import galleryConfig from '../config/gallery.json'
-import homeConfig from '../config/home.json'
-import type { GalleryConfig, Category, Album, HomeConfig } from '../types/config'
+import type { GalleryConfig, Category, Album } from '../types/config'
 
 const config = galleryConfig as GalleryConfig
-const home = homeConfig as HomeConfig
 
 export function getCategoryInfo(category: string): Category | undefined {
   return config.categories[category]
@@ -21,7 +19,3 @@ export function getAlbumById(categoryId: string, albumId: string): Album | undef
 export function getAllCategories(): string[] {
   return Object.keys(config.categories)
 }
-
-export function getHomeConfig(): HomeConfig {
-  return home
-} 

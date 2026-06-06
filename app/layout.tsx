@@ -1,17 +1,12 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Inter, Cormorant } from 'next/font/google'
-import Navbar from './components/Navbar'
+import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
-const cormorant = Cormorant({
-  subsets: ['latin'],
-  weight: ['300', '400', '500'],
-})
 
 export const metadata: Metadata = {
-  title: 'Nimmal Gallery',
-  description: 'A collection of visual stories',
+  title: 'NextSmile Gallery',
+  description: '爱智美 NextSmile 原始视觉素材相册',
 }
 
 export default function RootLayout({
@@ -20,13 +15,10 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body className={`${inter.className} ${cormorant.className}`}>
-        <Navbar />
-        <div className="flex-1">
-          {children}
-        </div>
+    <html lang="zh-CN">
+      <body className={inter.className}>
+        {children}
       </body>
     </html>
   )
-} 
+}
