@@ -38,7 +38,7 @@ function parseSource(sourceDir) {
   const group = match[2] || ''
   const date = `${ymd.slice(0, 4)}-${ymd.slice(4, 6)}-${ymd.slice(6, 8)}`
   const idSuffix = group ? `-${group}` : ''
-  const folderSuffix = group ? `-${group}` : ''
+  const fileSuffix = group ? `_${group}` : ''
 
   return {
     base,
@@ -46,7 +46,7 @@ function parseSource(sourceDir) {
     date,
     group,
     albumId: `nextsmile-${ymd}${idSuffix}`,
-    destFolder: `${ymd}${folderSuffix}`,
+    filePrefix: `nextsmile_${ymd}${fileSuffix}`,
   }
 }
 
@@ -73,26 +73,29 @@ function readTheme(sourceDir) {
   }
 }
 
-function copyPhotos(sourceDir, destFolder) {
+function copyPhotos(sourceDir, filePrefix) {
   const photos = [
     {
       file: '01-wechat-moments-square.png',
+      destFile: `${filePrefix}_01.png`,
       title: '朋友圈 / 微博方图',
       description: 'NextSmile 宣传方图',
     },
     {
       file: '02-douyin-cover-vertical.png',
+      destFile: `${filePrefix}_02.png`,
       title: '抖音竖版封面',
       description: 'NextSmile 宣传竖版封面',
     },
     {
       file: '03-weibo-wide-banner.png',
+      destFile: `${filePrefix}_03.png`,
       title: '微博横版 / 视频开场图',
       description: 'NextSmile 宣传横版图片',
     },
   ]
 
-  const destDir = path.join(repoRoot, 'public/images/gallery/nextsmile', destFolder)
+  const destDir = path.join(repoRoot, 'public/images/gallery/nextsmile')
   fs.mkdirSync(destDir, { recursive: true })
 
   return photos.map((photo, index) => {
@@ -101,13 +104,13 @@ function copyPhotos(sourceDir, destFolder) {
       throw new Error(`Required image not found: ${source}`)
     }
 
-    const dest = path.join(destDir, photo.file)
+    const dest = path.join(destDir, photo.destFile)
     fs.copyFileSync(source, dest)
 
     return {
       ...photo,
       index: index + 1,
-      url: `/images/gallery/nextsmile/${destFolder}/${photo.file}`,
+      url: `/images/gallery/nextsmile/${photo.destFile}`,
     }
   })
 }
@@ -166,7 +169,7 @@ function main() {
 
   const parsed = parseSource(sourceDir)
   const theme = readTheme(sourceDir)
-  const copiedPhotos = copyPhotos(sourceDir, parsed.destFolder)
+  const copiedPhotos = copyPhotos(sourceDir, parsed.filePrefix)
   updateGalleryConfig({
     albumId: parsed.albumId,
     date: parsed.date,
