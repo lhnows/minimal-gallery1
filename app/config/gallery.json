@@ -1675,7 +1675,7 @@
           "description": "今天已有一组“复诊沟通 SOP”素材，本次追加第二组，避开最近几天的资料质控、初诊跟进、咨询转化看板和复诊话术方向，聚焦儿童换牙期早矫筛查。核心表达是通过 AI 正畸筛查报告、专家会诊支持和家长沟通提纲，把面型、牙列空间、咬合关系与功能习惯风险讲清楚。",
           "detail": "今天已有一组“复诊沟通 SOP”素材，本次追加第二组，避开最近几天的资料质控、初诊跟进、咨询转化看板和复诊话术方向，聚焦儿童换牙期早矫筛查。核心表达是通过 AI 正畸筛查报告、专家会诊支持和家长沟通提纲，把面型、牙列空间、咬合关系与功能习惯风险讲清楚。",
           "coverImage": "/images/gallery/nextsmile/nextsmile_20260606_02_01.png",
-          "photoCount": 3,
+          "photoCount": 6,
           "createdAt": "2026-06-06",
           "photos": [
             {
@@ -1695,6 +1695,24 @@
               "url": "/images/gallery/nextsmile/nextsmile_20260606_02_03.png",
               "title": "微博横版 / 视频开场图",
               "description": "NextSmile 宣传横版图片"
+            },
+            {
+              "id": "nextsmile-20260606-02-4",
+              "url": "/images/gallery/nextsmile/nextsmile_20260606_02_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260606-02-5",
+              "url": "/images/gallery/nextsmile/nextsmile_20260606_02_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260606-02-6",
+              "url": "/images/gallery/nextsmile/nextsmile_20260606_02_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
             }
           ]
         }

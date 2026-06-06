@@ -93,6 +93,24 @@ function copyPhotos(sourceDir, filePrefix) {
       title: '微博横版 / 视频开场图',
       description: 'NextSmile 宣传横版图片',
     },
+    {
+      file: 'bg-square-original.png',
+      destFile: `${filePrefix}_original_01.png`,
+      title: '原始无文字背景 / 方图',
+      description: 'NextSmile 方图原始 AI 生成无文字背景',
+    },
+    {
+      file: 'bg-vertical-original.png',
+      destFile: `${filePrefix}_original_02.png`,
+      title: '原始无文字背景 / 竖版',
+      description: 'NextSmile 竖版原始 AI 生成无文字背景',
+    },
+    {
+      file: 'bg-wide-original.png',
+      destFile: `${filePrefix}_original_03.png`,
+      title: '原始无文字背景 / 横版',
+      description: 'NextSmile 横版原始 AI 生成无文字背景',
+    },
   ]
 
   const destDir = path.join(repoRoot, 'public/images/gallery/nextsmile')
