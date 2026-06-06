@@ -1663,6 +1663,42 @@
           ]
         }
       ]
+    },
+    "nextsmile": {
+      "title": "NextSmile 宣传素材",
+      "description": "爱智美 NextSmile 每日宣传图片",
+      "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
+      "albums": [
+        {
+          "id": "nextsmile-20260606-02",
+          "title": "儿童早期矫治筛查：把换牙期风险讲给家长听",
+          "description": "今天已有一组“复诊沟通 SOP”素材，本次追加第二组，避开最近几天的资料质控、初诊跟进、咨询转化看板和复诊话术方向，聚焦儿童换牙期早矫筛查。核心表达是通过 AI 正畸筛查报告、专家会诊支持和家长沟通提纲，把面型、牙列空间、咬合关系与功能习惯风险讲清楚。",
+          "detail": "今天已有一组“复诊沟通 SOP”素材，本次追加第二组，避开最近几天的资料质控、初诊跟进、咨询转化看板和复诊话术方向，聚焦儿童换牙期早矫筛查。核心表达是通过 AI 正畸筛查报告、专家会诊支持和家长沟通提纲，把面型、牙列空间、咬合关系与功能习惯风险讲清楚。",
+          "coverImage": "/images/gallery/nextsmile/20260606-02/01-wechat-moments-square.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-06",
+          "photos": [
+            {
+              "id": "nextsmile-20260606-02-1",
+              "url": "/images/gallery/nextsmile/20260606-02/01-wechat-moments-square.png",
+              "title": "朋友圈 / 微博方图",
+              "description": "NextSmile 宣传方图"
+            },
+            {
+              "id": "nextsmile-20260606-02-2",
+              "url": "/images/gallery/nextsmile/20260606-02/02-douyin-cover-vertical.png",
+              "title": "抖音竖版封面",
+              "description": "NextSmile 宣传竖版封面"
+            },
+            {
+              "id": "nextsmile-20260606-02-3",
+              "url": "/images/gallery/nextsmile/20260606-02/03-weibo-wide-banner.png",
+              "title": "微博横版 / 视频开场图",
+              "description": "NextSmile 宣传横版图片"
+            }
+          ]
+        }
+      ]
     }
   }
 }

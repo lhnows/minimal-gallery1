@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "import:nextsmile": "node scripts/import-nextsmile-daily.mjs",
     "start": "next start",
     "lint": "next lint"
   },
