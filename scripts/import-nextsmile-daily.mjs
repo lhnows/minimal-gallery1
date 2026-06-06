@@ -76,60 +76,68 @@ function readTheme(sourceDir) {
 function copyPhotos(sourceDir, filePrefix) {
   const photos = [
     {
-      file: '01-wechat-moments-square.png',
+      files: ['01-wechat-moments-square.png'],
       destFile: `${filePrefix}_01.png`,
       title: '朋友圈 / 微博方图',
       description: 'NextSmile 宣传方图',
     },
     {
-      file: '02-douyin-cover-vertical.png',
+      files: ['02-douyin-cover-vertical.png'],
       destFile: `${filePrefix}_02.png`,
       title: '抖音竖版封面',
       description: 'NextSmile 宣传竖版封面',
     },
     {
-      file: '03-weibo-wide-banner.png',
+      files: ['03-weibo-wide-banner.png'],
       destFile: `${filePrefix}_03.png`,
       title: '微博横版 / 视频开场图',
       description: 'NextSmile 宣传横版图片',
     },
     {
-      file: 'bg-square-original.png',
+      files: ['bg-square-original.png', '01-square-ai-raw.png', '01-square-base.png'],
       destFile: `${filePrefix}_original_01.png`,
       title: '原始无文字背景 / 方图',
       description: 'NextSmile 方图原始 AI 生成无文字背景',
     },
     {
-      file: 'bg-vertical-original.png',
+      files: ['bg-vertical-original.png', '02-douyin-ai-raw.png', '02-douyin-base.png'],
       destFile: `${filePrefix}_original_02.png`,
       title: '原始无文字背景 / 竖版',
       description: 'NextSmile 竖版原始 AI 生成无文字背景',
     },
     {
-      file: 'bg-wide-original.png',
+      files: ['bg-wide-original.png', '03-weibo-ai-raw.png', '03-weibo-base.png'],
       destFile: `${filePrefix}_original_03.png`,
       title: '原始无文字背景 / 横版',
       description: 'NextSmile 横版原始 AI 生成无文字背景',
+      optional: true,
     },
   ]
 
   const destDir = path.join(repoRoot, 'public/images/gallery/nextsmile')
   fs.mkdirSync(destDir, { recursive: true })
 
-  return photos.map((photo, index) => {
-    const source = path.join(sourceDir, photo.file)
+  return photos.flatMap((photo, index) => {
+    const sourceFile = photo.files.find((file) => fs.existsSync(path.join(sourceDir, file)))
+    if (!sourceFile && photo.optional) {
+      return []
+    }
+    if (!sourceFile && photo.destFile.includes('_original_')) {
+      return []
+    }
+    const source = sourceFile ? path.join(sourceDir, sourceFile) : ''
     if (!fs.existsSync(source)) {
-      throw new Error(`Required image not found: ${source}`)
+      throw new Error(`Required image not found. Tried: ${photo.files.map((file) => path.join(sourceDir, file)).join(', ')}`)
     }
 
     const dest = path.join(destDir, photo.destFile)
     fs.copyFileSync(source, dest)
 
-    return {
+    return [{
       ...photo,
       index: index + 1,
       url: `/images/gallery/nextsmile/${photo.destFile}`,
-    }
+    }]
   })
 }
 
@@ -169,6 +177,21 @@ function updateGalleryConfig({ albumId, date, theme, copiedPhotos }) {
   } else {
     category.albums.unshift(album)
   }
+
+  category.albums.sort((left, right) => {
+    const leftMatch = left.id.match(/^nextsmile-(\d{8})(?:-(\d+))?$/)
+    const rightMatch = right.id.match(/^nextsmile-(\d{8})(?:-(\d+))?$/)
+    if (!leftMatch || !rightMatch) {
+      return right.createdAt.localeCompare(left.createdAt)
+    }
+
+    const dateOrder = rightMatch[1].localeCompare(leftMatch[1])
+    if (dateOrder !== 0) {
+      return dateOrder
+    }
+
+    return Number(rightMatch[2] || 0) - Number(leftMatch[2] || 0)
+  })
 
   fs.writeFileSync(configPath, `${JSON.stringify(config, null, 2)}\n`)
 }
