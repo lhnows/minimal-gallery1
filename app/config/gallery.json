@@ -6,6 +6,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260608",
+          "title": "专家会诊结论的患者可理解沟通路径",
+          "description": "通过 AI 正畸资料分析、远程专家复核和门诊面对面讲解，把复杂的专业判断转化为患者能理解、能继续沟通的下一步路径。",
+          "detail": "通过 AI 正畸资料分析、远程专家复核和门诊面对面讲解，把复杂的专业判断转化为患者能理解、能继续沟通的下一步路径。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260608_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-08",
+          "photos": [
+            {
+              "id": "nextsmile-20260608-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260608_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260608-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260608_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260608-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260608_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260607",
           "title": "跨医生协作中的资料标准化",
           "description": "用照片、口扫、影像等标准化资料汇聚为统一病例视图，再连接 AI 结构化处理和多医生协作，表达“同一套资料、同一个判断基础、协作更顺畅”。所有图片均为原创无文字背景图，没有复用或拼贴现有报告页、产品截图和历史宣传图。",
