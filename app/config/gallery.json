@@ -6,6 +6,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260609",
+          "title": "椅旁一体化初诊：从牙椅采集到 AI 筛查报告",
+          "description": "聚焦正畸初诊现场，将牙椅旁的面像、口内扫描和影像采集，与 AI 结构化分析、筛查报告及医生讲解连接成一条连续工作流。主题避开近期的专家会诊结论沟通、跨医生资料标准化、复诊沟通 SOP 和儿童早矫方向。",
+          "detail": "聚焦正畸初诊现场，将牙椅旁的面像、口内扫描和影像采集，与 AI 结构化分析、筛查报告及医生讲解连接成一条连续工作流。主题避开近期的专家会诊结论沟通、跨医生资料标准化、复诊沟通 SOP 和儿童早矫方向。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260609_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-09",
+          "photos": [
+            {
+              "id": "nextsmile-20260609-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260609_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260609-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260609_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260609-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260609_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260608",
           "title": "专家会诊结论的患者可理解沟通路径",
           "description": "通过 AI 正畸资料分析、远程专家复核和门诊面对面讲解，把复杂的专业判断转化为患者能理解、能继续沟通的下一步路径。",
