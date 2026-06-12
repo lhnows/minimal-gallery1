@@ -6,6 +6,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260612",
+          "title": "正畸疗程阶段性沟通：让患者看见每一步进展",
+          "description": "聚焦正畸治疗过程中的阶段复盘，通过连续牙列模型、医生讲解和患者共同查看进展的场景，表达资料连续、变化可见、沟通清晰，让患者更容易理解当前阶段与后续方向。",
+          "detail": "聚焦正畸治疗过程中的阶段复盘，通过连续牙列模型、医生讲解和患者共同查看进展的场景，表达资料连续、变化可见、沟通清晰，让患者更容易理解当前阶段与后续方向。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260612_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-12",
+          "photos": [
+            {
+              "id": "nextsmile-20260612-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260612_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260612-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260612_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260612-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260612_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260610",
           "title": "患者授权与隐私合规：让 AI 正畸资料流转更安心",
           "description": "聚焦患者在正畸资料进入 AI 分析和医生协作前的知情授权、隐私保护与安全流转，用诊室沟通、受保护的数据路径和共同查看资料的场景，表达患者可控、医生可信、协作合规。",
