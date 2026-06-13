@@ -1,5 +1,53 @@
 {
   "categories": {
+    "orthodontic-education": {
+      "title": "正畸科普",
+      "description": "面向大众的原创口腔正畸科普图",
+      "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
+      "albums": [
+        {
+          "id": "orthodontic-education-20260613",
+          "title": "什么是深覆盖？先看前牙的水平距离",
+          "description": "用 5 张连续图解释深覆盖的定义、与深覆合的区别、可能影响以及何时建议面诊。仅凭照片不能自诊，需结合口内检查、面像和必要影像评估。",
+          "detail": "深覆盖描述上下前牙在水平方向的前后距离，深覆合描述垂直覆盖，两者不能混用。较大的深覆盖可能增加前牙磕碰风险，也可能伴随闭唇、咬合或清洁困扰；具体情况需要由正畸医生结合临床检查与必要影像判断。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260613_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-13",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260613-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260613_01.png",
+              "title": "什么是深覆盖？",
+              "description": "深覆盖首先看上下前牙的水平前后距离。"
+            },
+            {
+              "id": "orthodontic-education-20260613-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260613_02.png",
+              "title": "深覆盖看的是前后距离",
+              "description": "上前牙位于下前牙前方，距离明显增大时称为深覆盖。"
+            },
+            {
+              "id": "orthodontic-education-20260613-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260613_03.png",
+              "title": "深覆盖不等于深覆合",
+              "description": "深覆盖看水平前后距离，深覆合看垂直覆盖方向。"
+            },
+            {
+              "id": "orthodontic-education-20260613-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260613_04.png",
+              "title": "可能出现的影响",
+              "description": "前牙可能更容易磕碰，也可能伴随闭唇、咬合或清洁困扰。"
+            },
+            {
+              "id": "orthodontic-education-20260613-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260613_05.png",
+              "title": "何时建议面诊",
+              "description": "仅凭照片不能诊断，需结合口内检查、面像和必要影像评估。"
+            }
+          ]
+        }
+      ]
+    },
     "nextsmile": {
       "title": "NextSmile 宣传素材",
       "description": "爱智美 NextSmile 每日宣传图片",
