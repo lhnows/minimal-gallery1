@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260614",
+          "title": "牙齿为什么会拥挤？理解牙弓里的空间关系",
+          "description": "用 5 张连续图解释牙列拥挤的空间关系、常见表现、清洁困扰和换牙期面诊提示。拥挤程度及处理方式不能只凭照片判断。",
+          "detail": "牙列拥挤常表现为牙齿重叠、旋转或偏离牙列，核心是牙齿所需空间与牙弓可用空间不匹配。重叠区域可能更难清洁，也可能伴随咬合或牙龈困扰；是否需要观察、扩弓、拔牙或其他处理，需结合年龄、牙列阶段、口内检查和必要影像个体化评估。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260614_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-14",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260614-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260614_01.png",
+              "title": "牙齿为什么会拥挤？",
+              "description": "关键是牙齿所需空间超过牙弓可用空间。"
+            },
+            {
+              "id": "orthodontic-education-20260614-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260614_02.png",
+              "title": "什么是牙列拥挤？",
+              "description": "空间不足时，牙齿可能出现重叠、旋转或偏离牙列。"
+            },
+            {
+              "id": "orthodontic-education-20260614-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260614_03.png",
+              "title": "对比看差别",
+              "description": "排列较整齐与牙列拥挤的示意不能替代专业评估。"
+            },
+            {
+              "id": "orthodontic-education-20260614-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260614_04.png",
+              "title": "拥挤可能带来什么？",
+              "description": "重叠区域可能更难清洁，也可能伴随咬合或牙龈困扰。"
+            },
+            {
+              "id": "orthodontic-education-20260614-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260614_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "恒牙萌出受限、重叠加重或清洁困难时，建议结合牙列阶段面诊评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260613",
           "title": "什么是深覆盖？先看前牙的水平距离",
           "description": "用 5 张连续图解释深覆盖的定义、与深覆合的区别、可能影响以及何时建议面诊。仅凭照片不能自诊，需结合口内检查、面像和必要影像评估。",
