@@ -54,6 +54,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260614",
+          "title": "青少年正畸共同决策：让孩子、家长与医生一起看懂治疗选择",
+          "description": "聚焦青少年正畸初诊中的共同决策，通过孩子主动参与、家长陪伴、门诊医生讲解与远程专业支持的场景，表达治疗选择应建立在清晰证据、充分沟通和共同理解之上。",
+          "detail": "聚焦青少年正畸初诊中的共同决策，通过孩子主动参与、家长陪伴、门诊医生讲解与远程专业支持的场景，表达治疗选择应建立在清晰证据、充分沟通和共同理解之上。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260614_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-14",
+          "photos": [
+            {
+              "id": "nextsmile-20260614-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260614_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260614-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260614_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260614-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260614_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260613",
           "title": "多门店正畸病例协同：同一套资料标准贯穿转诊与会诊",
           "description": "聚焦连锁口腔机构和多门店团队在患者转诊、资料采集与专家会诊中的连续协作，通过标准化影像资料、椅旁采集和跨院医生共同查看病例的场景，表达信息一致、协作顺畅、沟通可信。",
