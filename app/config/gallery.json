@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260615",
+          "title": "前牙为什么咬不上？认识前牙开颌",
+          "description": "用 5 张连续图解释前牙开颌的垂直接触关系、常见前牙覆盖对比、可能的功能困扰和儿童面诊评估提示。不能只凭照片自诊。",
+          "detail": "前牙开颌常表现为后牙咬合时上下前牙仍不接触、前牙之间留有垂直间隙。部分人可能出现切咬、发音或吞咽困扰；形成原因常涉及生长、牙齿萌出、口腔习惯和舌位等多种因素，不能简单归因于某一个习惯。儿童评估需结合生长和换牙阶段，是否需要处理应由医生结合口内检查、功能评估和必要影像个体化判断。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260615_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-15",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260615-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260615_01.png",
+              "title": "前牙为什么咬不上？",
+              "description": "后牙咬住时，上下前牙仍有间隙。"
+            },
+            {
+              "id": "orthodontic-education-20260615-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260615_02.png",
+              "title": "什么是前牙开颌？",
+              "description": "后牙咬合时，上下前牙没有接触并留有垂直间隙。"
+            },
+            {
+              "id": "orthodontic-education-20260615-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260615_03.png",
+              "title": "对比看差别",
+              "description": "常见前牙关系有适度覆盖，前牙开颌则在后牙咬住时仍有间隙。"
+            },
+            {
+              "id": "orthodontic-education-20260615-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260615_04.png",
+              "title": "可能需要关注什么？",
+              "description": "切咬可能更费力，部分人也可能伴有发音或吞咽困扰。"
+            },
+            {
+              "id": "orthodontic-education-20260615-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260615_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "前牙间隙持续存在或功能受到困扰时，建议结合生长阶段面诊评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260614",
           "title": "牙齿为什么会拥挤？理解牙弓里的空间关系",
           "description": "用 5 张连续图解释牙列拥挤的空间关系、常见表现、清洁困扰和换牙期面诊提示。拥挤程度及处理方式不能只凭照片判断。",
