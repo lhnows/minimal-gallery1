@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260618-gap",
+          "title": "牙齿有缝需要关吗？先看位置、变化和原因",
+          "description": "用 5 张连续图解释牙缝的基本概念、换牙期与恒牙期变化差异、需要关注的伴随信号，以及为什么不能只凭图片自行判断是否关缝。",
+          "detail": "牙缝是相邻牙之间出现的明显间隙，前牙和后牙都可能出现。换牙期的小间隙可能随生长和萌牙变化；恒牙期新出现或逐渐变大的牙缝，尤其伴随塞牙、牙龈出血或牙齿松动时，需要结合口腔检查、牙周情况、缺牙、牙弓空间、咬合关系和必要影像综合评估。内容仅作科普，不能替代医生面诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260618_gap_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-18",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260618-gap-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_gap_01.png",
+              "title": "牙齿有缝需要关吗？",
+              "description": "先看位置、变化和原因，不能仅凭图片自诊。"
+            },
+            {
+              "id": "orthodontic-education-20260618-gap-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_gap_02.png",
+              "title": "什么是牙缝？",
+              "description": "两颗牙之间出现明显间隙，前牙和后牙都可能出现。"
+            },
+            {
+              "id": "orthodontic-education-20260618-gap-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_gap_03.png",
+              "title": "对比看差别",
+              "description": "换牙期小间隙可能变化，恒牙期新缝或变大需检查。"
+            },
+            {
+              "id": "orthodontic-education-20260618-gap-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_gap_04.png",
+              "title": "哪些情况要关注？",
+              "description": "新出现、变大、塞牙，或伴牙龈出血和牙齿松动时需检查。"
+            },
+            {
+              "id": "orthodontic-education-20260618-gap-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_gap_05.png",
+              "title": "不要急着自行关缝",
+              "description": "方案需由医生结合面诊、牙周情况、咬合和影像评估综合判断。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260618",
           "title": "地包天是怎么回事？认识前牙反颌",
           "description": "用 5 张连续图解释前牙反颌的前牙咬合方向、常见前牙关系对比、可能需要关注的切咬与发音问题，以及乳牙期或换牙期面诊评估提示。不能只凭照片自诊。",
