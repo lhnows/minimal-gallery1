@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260618",
+          "title": "地包天是怎么回事？认识前牙反颌",
+          "description": "用 5 张连续图解释前牙反颌的前牙咬合方向、常见前牙关系对比、可能需要关注的切咬与发音问题，以及乳牙期或换牙期面诊评估提示。不能只凭照片自诊。",
+          "detail": "前牙反颌常被称为“地包天”，核心是咬合时下前牙位于上前牙前方或外侧。它不同于深覆盖、深覆合或前牙开颌。部分人可能出现切咬费力、发音受影响，儿童还需要结合生长阶段观察颌面发育；具体情况因人而异，不能仅凭照片判断，需结合口内检查、面诊和必要影像评估。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260618_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-18",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260618-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_01.png",
+              "title": "地包天，是怎么回事？",
+              "description": "先看前牙咬合方向。"
+            },
+            {
+              "id": "orthodontic-education-20260618-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_02.png",
+              "title": "什么是前牙反颌？",
+              "description": "咬合时，下前牙在上前牙前方或外侧。"
+            },
+            {
+              "id": "orthodontic-education-20260618-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_03.png",
+              "title": "对比看差别",
+              "description": "常见前牙关系是上前牙在外侧，前牙反颌则是下前牙在外侧。"
+            },
+            {
+              "id": "orthodontic-education-20260618-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_04.png",
+              "title": "可能需要关注",
+              "description": "切咬、发音或颌面生长观察可能需要结合个体情况评估。"
+            },
+            {
+              "id": "orthodontic-education-20260618-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260618_05.png",
+              "title": "何时建议面诊？",
+              "description": "乳牙期或换牙期出现反咬，可尽早结合面诊和影像评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260615",
           "title": "前牙为什么咬不上？认识前牙开颌",
           "description": "用 5 张连续图解释前牙开颌的垂直接触关系、常见前牙覆盖对比、可能的功能困扰和儿童面诊评估提示。不能只凭照片自诊。",
