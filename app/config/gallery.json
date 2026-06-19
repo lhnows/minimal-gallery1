@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260619",
+          "title": "为什么 7 岁左右要看一次正畸？替牙期观察重点",
+          "description": "用 5 张连续图解释替牙期为什么建议做一次正畸观察：乳牙恒牙并存阶段看萌出顺序、空间、咬合和颌骨发育；早看不等于早戴牙套，不能只凭照片自诊。",
+          "detail": "替牙期是乳牙和恒牙同时存在、牙齿和颌骨仍在发育的阶段。7 岁左右的正畸筛查可帮助了解牙齿萌出、牙弓空间、咬合方向和颌面发育趋势；评估结果可能是继续观察、定期复查，或在确有需要时进行干预。是否治疗需结合口内检查、面诊和必要影像综合判断。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260619_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-19",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260619-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_01.png",
+              "title": "替牙期观察",
+              "description": "为什么 7 岁左右要看一次？先了解牙齿和颌骨发育。"
+            },
+            {
+              "id": "orthodontic-education-20260619-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_02.png",
+              "title": "什么是替牙期？",
+              "description": "乳牙和恒牙同时存在，重点看萌出顺序、空间、咬合和颌骨发育。"
+            },
+            {
+              "id": "orthodontic-education-20260619-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_03.png",
+              "title": "看什么算异常信号？",
+              "description": "换牙有先后可能正常；反咬合、严重拥挤、偏斜、口呼吸建议专业评估。"
+            },
+            {
+              "id": "orthodontic-education-20260619-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_04.png",
+              "title": "早看不等于早戴牙套",
+              "description": "早期评估可能帮助发现趋势，判断继续观察还是需要干预。"
+            },
+            {
+              "id": "orthodontic-education-20260619-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "不能只凭照片自诊，需结合口内检查和必要影像评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260618-gap",
           "title": "牙齿有缝需要关吗？先看位置、变化和原因",
           "description": "用 5 张连续图解释牙缝的基本概念、换牙期与恒牙期变化差异、需要关注的伴随信号，以及为什么不能只凭图片自行判断是否关缝。",
