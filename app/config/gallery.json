@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260619-deepbite",
+          "title": "深覆合是什么？先看前牙的垂直覆盖",
+          "description": "用 5 张连续图解释深覆合的垂直覆盖概念、与深覆盖的区别、适度覆盖与深覆合的对比，以及哪些情况建议结合面诊和影像评估。不能只凭照片自诊。",
+          "detail": "深覆合关注上前牙对下前牙的垂直覆盖过多，容易与深覆盖混淆；深覆盖主要看前牙水平前后距离。深覆合可能伴随前牙磨耗、牙龈受压或咬合不适，但是否需要处理应由医生结合口内检查、面像、咬合关系和必要影像综合判断，不能仅凭图片自诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260619_deepbite_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-19",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260619-deepbite-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_deepbite_01.png",
+              "title": "深覆合是什么？",
+              "description": "先看前牙的垂直覆盖，请勿自诊。"
+            },
+            {
+              "id": "orthodontic-education-20260619-deepbite-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_deepbite_02.png",
+              "title": "概念定义",
+              "description": "上前牙盖住下前牙较多，重点是上下方向，不等于深覆盖。"
+            },
+            {
+              "id": "orthodontic-education-20260619-deepbite-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_deepbite_03.png",
+              "title": "对比看差别",
+              "description": "适度覆盖时下前牙仍能看见一部分，深覆合则下前牙被盖得更多。"
+            },
+            {
+              "id": "orthodontic-education-20260619-deepbite-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_deepbite_04.png",
+              "title": "可能需要关注",
+              "description": "前牙磨耗、牙龈受压或咬合不适时，是否处理需面诊评估。"
+            },
+            {
+              "id": "orthodontic-education-20260619-deepbite-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260619_deepbite_05.png",
+              "title": "何时建议面诊？",
+              "description": "覆盖很深、咬合不适、磨耗或换牙期持续明显时，需结合检查和影像评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260619",
           "title": "为什么 7 岁左右要看一次正畸？替牙期观察重点",
           "description": "用 5 张连续图解释替牙期为什么建议做一次正畸观察：乳牙恒牙并存阶段看萌出顺序、空间、咬合和颌骨发育；早看不等于早戴牙套，不能只凭照片自诊。",
