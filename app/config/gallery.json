@@ -300,6 +300,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260620",
+          "title": "门诊咨询转化中的 AI 正畸会诊支持：把初诊资料变成清晰下一步",
+          "description": "聚焦门诊初诊咨询中，医生借助 AI 正畸资料整理和专家会诊支持，把患者资料转化为可讨论的下一步方向，通过诊室、牙椅、医生患者沟通、抽象牙弓扫描和会诊节点，表达资料标准化、专业解释和咨询转化之间的连接。",
+          "detail": "聚焦门诊初诊咨询中，医生借助 AI 正畸资料整理和专家会诊支持，把患者资料转化为可讨论的下一步方向，通过诊室、牙椅、医生患者沟通、抽象牙弓扫描和会诊节点，表达资料标准化、专业解释和咨询转化之间的连接。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260620_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-20",
+          "photos": [
+            {
+              "id": "nextsmile-20260620-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260620_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260620-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260620_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260620-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260620_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260619",
           "title": "隐形矫治复诊依从性沟通：把佩戴数据、照片和医生建议连接起来",
           "description": "聚焦隐形矫治复诊前后的依从性沟通，把佩戴数据、患者阶段照片、口扫/牙模变化和医生建议组织成可解释的复诊资料，通过医生、患者、透明 AI 数据面板、隐形牙套盒和诊室会诊氛围，表达复诊沟通需要建立在连续资料和专业解释之上。",
