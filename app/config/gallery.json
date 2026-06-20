@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260620-midline",
+          "title": "牙齿中线不齐：笑起来中线偏了，要紧吗？",
+          "description": "用 5 张连续图解释牙齿中线不齐的基本概念、与面部中线和咬合关系的联系、哪些伴随情况需要关注，以及为什么不能只凭照片自诊。",
+          "detail": "中线不齐可表现为上下门牙中线不一致，或牙齿中线与面部中线不一致。它可能来自牙齿位置、缺牙、拥挤，也可能与颌骨或咬合关系有关。轻微偏差不一定需要治疗；明显偏斜或伴随咀嚼不适、反咬、拥挤、缺牙等情况时，建议由医生结合口内检查、咬合和必要影像综合评估。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260620_midline_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-20",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260620-midline-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260620_midline_01.png",
+              "title": "牙齿中线不齐",
+              "description": "笑起来中线偏了，要先看牙齿中线、面部中线和咬合关系。"
+            },
+            {
+              "id": "orthodontic-education-20260620-midline-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260620_midline_02.png",
+              "title": "什么是中线不齐？",
+              "description": "上下门牙中线，或牙齿中线与面部中线不一致，可能与牙齿位置、颌骨或咬合有关。"
+            },
+            {
+              "id": "orthodontic-education-20260620-midline-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260620_midline_03.png",
+              "title": "对比看差别",
+              "description": "中线基本一致与明显偏移不同，轻微偏差不一定都需要治疗。"
+            },
+            {
+              "id": "orthodontic-education-20260620-midline-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260620_midline_04.png",
+              "title": "哪些情况要关注？",
+              "description": "偏差加重、下颌偏向一侧，或伴随反咬、拥挤、缺牙、清洁困难时建议评估。"
+            },
+            {
+              "id": "orthodontic-education-20260620-midline-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260620_midline_05.png",
+              "title": "不要只凭照片自诊",
+              "description": "是否需要处理，应结合口内检查、咬合关系和必要影像评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260620-mouthbreathing",
           "title": "孩子总是口呼吸？先看原因，再看牙颌发育",
           "description": "用 5 张连续图解释口呼吸不是只看嘴巴开不开，而要结合鼻腔与睡眠通气、牙弓、咬合和颌面发育观察；长期口呼吸、打鼾或咬合变化建议面诊评估，不能只凭照片自诊。",
