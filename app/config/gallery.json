@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260621-bracescleaning",
+          "title": "戴固定牙套，怎么把牙刷干净？",
+          "description": "用 5 张连续图解释固定牙套清洁重点：托槽周围、弓丝附近和牙龈边更容易滞留菌斑，刷牙需要小角度贴近牙面，必要时使用牙线或牙间刷辅助清洁，并按时复诊检查。",
+          "detail": "固定牙套由托槽和弓丝等部件组成，食物残渣和菌斑容易停留在托槽周围、弓丝附近和牙龈边。日常应使用含氟牙膏认真刷牙，按医生或洁牙师建议使用牙线、牙间刷等辅助工具，减少含糖饮料并按时复诊。牙龈红肿出血、口气明显、托槽周围白斑、刷牙疼或总刷不干净时，建议面诊获得专业指导，不能仅凭图片自诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260621_bracescleaning_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-21",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260621-bracescleaning-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260621_bracescleaning_01.png",
+              "title": "固定牙套清洁",
+              "description": "托槽周围最容易藏牙菌斑，每天认真刷，复诊时也要请医生检查。"
+            },
+            {
+              "id": "orthodontic-education-20260621-bracescleaning-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260621_bracescleaning_02.png",
+              "title": "清洁看哪里？",
+              "description": "托槽上方、下方和牙龈边都要刷到，牙刷小角度贴近牙面。"
+            },
+            {
+              "id": "orthodontic-education-20260621-bracescleaning-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260621_bracescleaning_03.png",
+              "title": "对比看差别",
+              "description": "清洁到位时托槽边缘较干净，清洁不足时可能有食物残渣和菌斑堆积。"
+            },
+            {
+              "id": "orthodontic-education-20260621-bracescleaning-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260621_bracescleaning_04.png",
+              "title": "哪些情况要关注？",
+              "description": "牙龈红肿出血、口气明显、托槽周围白斑或总刷不干净时，建议专业指导。"
+            },
+            {
+              "id": "orthodontic-education-20260621-bracescleaning-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260621_bracescleaning_05.png",
+              "title": "该怎么做？",
+              "description": "含氟牙膏认真刷牙，牙线和牙间刷可帮助清洁缝隙；图片不能替代面诊检查。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260620-midline",
           "title": "牙齿中线不齐：笑起来中线偏了，要紧吗？",
           "description": "用 5 张连续图解释牙齿中线不齐的基本概念、与面部中线和咬合关系的联系、哪些伴随情况需要关注，以及为什么不能只凭照片自诊。",
