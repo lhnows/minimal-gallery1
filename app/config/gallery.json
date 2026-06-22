@@ -7,9 +7,9 @@
       "albums": [
         {
           "id": "orthodontic-education-20260622-followup",
-          "title": "正畸复诊：为什么要按时来？",
-          "description": "用 5 张连续图解释正畸复诊为什么重要：复诊用于检查牙齿移动、附件/托槽/牙套适配、牙龈和清洁状态；牙套不贴合、托槽松脱、弓丝扎嘴或持续疼痛时应联系医生或正畸团队。内容仅作科普，不能替代面诊判断。",
-          "detail": "正畸复诊不是简单走流程，而是由医生结合治疗阶段检查牙齿移动是否符合计划、矫治器或牙套是否合适、口腔卫生和牙龈状态是否需要关注。复诊间隔、是否调整方案和是否需要影像评估因人而异；不要自行加力、擅自改佩戴方式或仅凭图片判断治疗方案。",
+          "title": "正畸复诊为什么要按时？",
+          "description": "用 5 张连续图解释正畸复诊的意义：复诊不是只换钢丝，而是观察牙齿移动、咬合关系、矫治器状态和口腔卫生。按计划复诊、异常先沟通，不能自行调整牙套。内容仅作科普，不能替代医生面诊。",
+          "detail": "正畸治疗中的牙齿移动需要医生持续观察。复诊可帮助评估牙齿是否按计划移动、咬合是否协调、托槽或附件是否完好、口腔卫生是否达标，并判断是否需要调整方案。长期拖延复诊可能影响治疗进度，也可能错过及时处理小问题的时机；托槽脱落、弓丝扎嘴、持续疼痛或肿胀、咬合突然不舒服等情况，建议先联系医生。具体复诊间隔和是否加急处理需结合面诊、矫治器类型和必要影像评估。",
           "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260622_followup_01.png",
           "photoCount": 5,
           "createdAt": "2026-06-22",
@@ -17,32 +17,32 @@
             {
               "id": "orthodontic-education-20260622-followup-1",
               "url": "/images/gallery/orthodontic-education/orthodontic_education_20260622_followup_01.png",
-              "title": "正畸复诊",
-              "description": "复诊不是走流程，是检查牙齿移动和口腔状态。"
+              "title": "正畸复诊为什么要按时？",
+              "description": "牙齿移动需要医生持续观察，复诊会看进展、调力量、查问题。"
             },
             {
               "id": "orthodontic-education-20260622-followup-2",
               "url": "/images/gallery/orthodontic-education/orthodontic_education_20260622_followup_02.png",
-              "title": "复诊主要看什么？",
-              "description": "医生会看牙齿移动、附件或托槽牙套适配，以及牙龈和清洁状态。"
+              "title": "复诊在看什么？",
+              "description": "复诊不是只换一根钢丝，还会综合看牙齿位置、咬合关系和口腔卫生。"
             },
             {
               "id": "orthodontic-education-20260622-followup-3",
               "url": "/images/gallery/orthodontic-education/orthodontic_education_20260622_followup_03.png",
-              "title": "按时复诊 vs 拖很久",
-              "description": "按时复诊有助于及时调整计划；拖延可能让牙套贴合或清洁问题延后发现。"
+              "title": "按时复诊 vs 长期拖延",
+              "description": "按计划观察有助于力量更可控、问题早发现；拖太久可能影响进度。"
             },
             {
               "id": "orthodontic-education-20260622-followup-4",
               "url": "/images/gallery/orthodontic-education/orthodontic_education_20260622_followup_04.png",
-              "title": "这些情况别硬等",
-              "description": "牙套戴不进、托槽松脱、弓丝扎嘴或牙龈疼痛持续时，先联系医生或正畸团队。"
+              "title": "哪些情况别硬等？",
+              "description": "托槽脱落、弓丝扎嘴、持续疼痛或肿胀、咬合突然不舒服时，建议先联系医生。"
             },
             {
               "id": "orthodontic-education-20260622-followup-5",
               "url": "/images/gallery/orthodontic-education/orthodontic_education_20260622_followup_05.png",
               "title": "复诊小结",
-              "description": "按医嘱复诊，别自行加力；方案调整需结合面诊和必要影像评估。"
+              "description": "按医嘱复诊，异常先沟通，不自行加力；是否调整方案需结合面诊和影像评估。"
             }
           ]
         },
