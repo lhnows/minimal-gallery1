@@ -423,6 +423,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260622",
+          "title": "正畸病例全周期随访：从初诊筛查到复诊调整的连续资料链",
+          "description": "聚焦正畸病例从初诊筛查、AI 结构化报告、医生复核到后续复诊调整的连续资料链路，通过诊室、牙椅、医生患者沟通、抽象牙弓扫描、匿名报告面板和随访时间线，表达门诊长期沟通与病例管理需要建立在标准化资料和专业解释之上。",
+          "detail": "聚焦正畸病例从初诊筛查、AI 结构化报告、医生复核到后续复诊调整的连续资料链路，通过诊室、牙椅、医生患者沟通、抽象牙弓扫描、匿名报告面板和随访时间线，表达门诊长期沟通与病例管理需要建立在标准化资料和专业解释之上。三张图片均为原创无文字底图，没有直接复用、拼贴或简单改尺寸现有素材。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260622_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-22",
+          "photos": [
+            {
+              "id": "nextsmile-20260622-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260622_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260622-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260622_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260622-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260622_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260621",
           "title": "儿童早期矫治筛查中的家长沟通：把牙弓宽度、替牙顺序和呼吸习惯线索讲清楚",
           "description": "聚焦儿童换牙期早期矫治筛查中的家长沟通，把牙弓宽度、替牙顺序、呼吸习惯线索和医生椅旁解释组织成可理解的讨论场景，通过诊室、牙椅、医生、家长、儿童、口扫设备和抽象牙弓/气道可视化，表达筛查不是直接承诺治疗结果，而是帮助家长理解观察重点和下一步评估方向。",
