@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260623-elastics",
+          "title": "正畸橡皮筋，为什么要认真戴？",
+          "description": "用 5 张连续图解释正畸橡皮筋牵引：橡皮筋可提供额外牵引力，帮助调整牙齿和上下牙咬合关系；挂法、方向、时间和是否取下都应按医生安排，不能自行加量或借用他人橡皮筋。内容仅作科普，不能替代医生面诊。",
+          "detail": "正畸橡皮筋通常由医生根据个体咬合目标安排挂点、方向、数量和佩戴时间，用于辅助牙齿移动或上下牙咬合关系调整。患者应按医嘱佩戴和更换，不应自行改变挂法、加量、多挂或少戴，也不应借用他人橡皮筋。橡皮筋断裂、丢失、不够用、频繁断裂、明显不适或疑似过敏时，建议先联系正畸医生或正畸团队。具体戴法是否需要调整，需结合面诊、口内检查、咬合关系和必要影像评估。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260623_elastics_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-23",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260623-elastics-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_elastics_01.png",
+              "title": "正畸橡皮筋，为什么要认真戴？",
+              "description": "橡皮筋帮助调整上下牙咬合，戴法和佩戴时间要听医生安排。"
+            },
+            {
+              "id": "orthodontic-education-20260623-elastics-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_elastics_02.png",
+              "title": "它在做什么？",
+              "description": "小橡皮筋提供额外牵引力，帮助牙齿和咬合关系按计划移动。"
+            },
+            {
+              "id": "orthodontic-education-20260623-elastics-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_elastics_03.png",
+              "title": "戴对 vs 戴错",
+              "description": "位置、方向和时间都要按医生安排，不要自行换挂法。"
+            },
+            {
+              "id": "orthodontic-education-20260623-elastics-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_elastics_04.png",
+              "title": "常见提醒",
+              "description": "洗手再戴，断了及时补，按医嘱取下，换新别复用。"
+            },
+            {
+              "id": "orthodontic-education-20260623-elastics-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_elastics_05.png",
+              "title": "不能自行加量",
+              "description": "不要多挂、少戴或借别人橡皮筋；不适或过敏先联系医生。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260623-soreness",
           "title": "正畸后牙齿酸胀正常吗？",
           "description": "用 5 张连续图解释正畸后牙齿酸胀的常见原因、短期不适与异常信号的区别，以及哪些情况建议联系医生或面诊评估。内容仅作科普，不能替代口腔检查。",
