@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260623-primary-tooth-loss",
+          "title": "乳牙早掉，要紧吗？",
+          "description": "用 5 张连续图解释乳牙早失与间隙保持：乳牙未到自然替换时间却因龋齿、外伤等过早缺失时，间隙可能慢慢变小，邻牙可能占位。是否需要处理或间隙保持，应结合牙位、牙龄、继承恒牙、咬合关系和口腔卫生面诊判断。内容仅作科普，不能替代医生面诊。",
+          "detail": "乳牙可帮助维持继承恒牙萌出的空间。乳牙因龋齿、外伤、异位萌出等原因过早缺失时，邻牙可能向缺牙间隙移动，间隙可能变窄，并增加恒牙萌出受阻或牙列拥挤的风险。是否需要间隙保持器，需结合缺失牙位、缺失时间、牙龄、继承恒牙发育情况、咬合关系、口腔卫生和儿童配合度综合评估，不能只凭照片或图片自诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260623_primary_tooth_loss_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-23",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260623-primary-tooth-loss-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_primary_tooth_loss_01.png",
+              "title": "乳牙早掉，要紧吗？",
+              "description": "别只等恒牙长出来，先看看间隙是否需要保护。"
+            },
+            {
+              "id": "orthodontic-education-20260623-primary-tooth-loss-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_primary_tooth_loss_02.png",
+              "title": "什么是乳牙早失？",
+              "description": "乳牙还没到自然替换时间，却因龋齿、外伤等过早缺失。"
+            },
+            {
+              "id": "orthodontic-education-20260623-primary-tooth-loss-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_primary_tooth_loss_03.png",
+              "title": "自然换牙和过早缺失",
+              "description": "自然换牙是恒牙接力萌出；过早缺失时邻牙可能占位，差别要看牙位和时间。"
+            },
+            {
+              "id": "orthodontic-education-20260623-primary-tooth-loss-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_primary_tooth_loss_04.png",
+              "title": "需要关注什么？",
+              "description": "间隙变窄、恒牙萌出受阻或牙列拥挤风险增加时，是否处理要面诊判断。"
+            },
+            {
+              "id": "orthodontic-education-20260623-primary-tooth-loss-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_primary_tooth_loss_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "乳牙提前掉了、间隙看着变小或恒牙迟迟不萌出时，不能只凭图片自诊。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260623-elastics",
           "title": "正畸橡皮筋，为什么要认真戴？",
           "description": "用 5 张连续图解释正畸橡皮筋牵引：橡皮筋可提供额外牵引力，帮助调整牙齿和上下牙咬合关系；挂法、方向、时间和是否取下都应按医生安排，不能自行加量或借用他人橡皮筋。内容仅作科普，不能替代医生面诊。",
