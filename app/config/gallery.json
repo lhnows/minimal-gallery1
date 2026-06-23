@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260623-soreness",
+          "title": "正畸后牙齿酸胀正常吗？",
+          "description": "用 5 张连续图解释正畸后牙齿酸胀的常见原因、短期不适与异常信号的区别，以及哪些情况建议联系医生或面诊评估。内容仅作科普，不能替代口腔检查。",
+          "detail": "正畸过程中，牙齿在轻柔、持续的矫治力作用下移动，牙周组织会逐步适应，短期酸胀可能出现，且感受因人而异。若疼痛持续加重、牙龈明显肿胀或流脓、矫治器反复扎伤、咬合突然不舒服等，建议联系医生或正畸团队。酸胀只是观察线索，是否需要处理需结合口内检查和医生评估，不能只凭图片自诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260623_soreness_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-23",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260623-soreness-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_soreness_01.png",
+              "title": "正畸后牙齿酸胀正常吗？",
+              "description": "先分清短期不适和异常疼痛，科普图不能替代面诊判断。"
+            },
+            {
+              "id": "orthodontic-education-20260623-soreness-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_soreness_02.png",
+              "title": "酸胀从哪里来？",
+              "description": "正畸力作用后，牙齿和牙周组织需要时间适应，感受因人而异。"
+            },
+            {
+              "id": "orthodontic-education-20260623-soreness-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_soreness_03.png",
+              "title": "常见不适 vs 需要关注",
+              "description": "咬东西发酸、轻微胀痛可能短期出现；疼痛加重、牙龈肿胀流脓或扎伤应联系医生。"
+            },
+            {
+              "id": "orthodontic-education-20260623-soreness-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_soreness_04.png",
+              "title": "酸胀时别这样做",
+              "description": "不要硬咬硬物、不要自行加力、不要拖着不问，具体处理以医生建议为准。"
+            },
+            {
+              "id": "orthodontic-education-20260623-soreness-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260623_soreness_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "疼痛持续加重、牙龈明显肿胀、矫治器反复扎伤或咬合突然不舒服时建议评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260622-followup",
           "title": "正畸复诊为什么要按时？",
           "description": "用 5 张连续图解释正畸复诊的意义：复诊不是只换钢丝，而是观察牙齿移动、咬合关系、矫治器状态和口腔卫生。按计划复诊、异常先沟通，不能自行调整牙套。内容仅作科普，不能替代医生面诊。",
