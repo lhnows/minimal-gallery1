@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260625-loose-bracket",
+          "title": "托槽松了怎么办？",
+          "description": "用 5 张连续图解释固定矫治器托槽松脱或脱落时的识别和保守处理：先别自行用胶水粘，可拍照记录、保护口腔、用正畸蜡缓解摩擦，避免硬黏韧食物，并联系正畸医生判断是否需要加急处理。内容仅作科普，不能替代面诊和口内检查。",
+          "detail": "托槽原本粘在牙面上，帮助弓丝传递力量。松脱或脱落时，托槽可能仍挂在弓丝上，也可能滑动并磨嘴。一般应避免硬、黏、韧食物，保留掉落的小部件，不要自行用胶水粘回牙面；若出现托槽掉落或反复滑动、弓丝扎嘴、疼痛、出血、划伤，或不确定能否等到复诊，应联系正畸医生或正畸团队，由医生结合口内情况判断是否加急处理。科普图不能替代面诊和口内检查。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260625_loose_bracket_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-25",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260625-loose-bracket-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_loose_bracket_01.png",
+              "title": "托槽松了怎么办？",
+              "description": "先别自己粘，先保护口腔；拍照记录、联系医生，并避开硬黏食物。"
+            },
+            {
+              "id": "orthodontic-education-20260625-loose-bracket-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_loose_bracket_02.png",
+              "title": "什么是托槽脱落？",
+              "description": "托槽原本粘在牙面上，帮助弓丝传递力量；松动后可能仍挂在弓丝上。"
+            },
+            {
+              "id": "orthodontic-education-20260625-loose-bracket-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_loose_bracket_03.png",
+              "title": "正常固定 vs 托槽松脱",
+              "description": "托槽固定时弓丝平顺；松脱时托槽可能滑动、磨嘴，但不代表治疗失败。"
+            },
+            {
+              "id": "orthodontic-education-20260625-loose-bracket-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_loose_bracket_04.png",
+              "title": "先做这几件事",
+              "description": "可用正畸蜡缓解摩擦，避免硬黏韧食物，保留掉落部件，不自行用胶水粘。"
+            },
+            {
+              "id": "orthodontic-education-20260625-loose-bracket-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_loose_bracket_05.png",
+              "title": "什么时候联系医生？",
+              "description": "托槽掉落、反复滑动、弓丝扎嘴、疼痛或划伤时，尽快联系正畸医生。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260623-primary-tooth-loss",
           "title": "乳牙早掉，要紧吗？",
           "description": "用 5 张连续图解释乳牙早失与间隙保持：乳牙未到自然替换时间却因龋齿、外伤等过早缺失时，间隙可能慢慢变小，邻牙可能占位。是否需要处理或间隙保持，应结合牙位、牙龄、继承恒牙、咬合关系和口腔卫生面诊判断。内容仅作科普，不能替代医生面诊。",
