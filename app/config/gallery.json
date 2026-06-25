@@ -6,6 +6,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260625-extraction-assessment",
+          "title": "正畸一定要拔牙吗？",
+          "description": "用 5 张连续图解释正畸拔牙评估：拔牙不是治疗目的，而是获得空间的一种可能方案；不拔牙和拔牙都可能合理，需结合拥挤程度、前牙前突、咬合关系、牙周牙根、面型和影像资料个体化评估。内容仅作科普，不能替代医生面诊。",
+          "detail": "正畸治疗中，拔牙与否不是靠照片或单一感受决定。医生通常会综合牙列拥挤程度、前牙前突、咬合关系、面型、牙周和牙根条件、影像资料及患者诉求，判断是否需要通过拔牙获得空间，或是否可通过其他方式管理空间。不拔牙和拔牙都可能是合理方案，也都存在适应证边界；具体方案需面诊评估。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260625_extraction_assessment_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-25",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260625-extraction-assessment-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_extraction_assessment_01.png",
+              "title": "正畸一定要拔牙吗？",
+              "description": "先看空间、咬合和面型，不能只凭照片决定。"
+            },
+            {
+              "id": "orthodontic-education-20260625-extraction-assessment-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_extraction_assessment_02.png",
+              "title": "拔牙不是目的",
+              "description": "它只是获得空间的一种可能方案，需要看拥挤、前突和咬合。"
+            },
+            {
+              "id": "orthodontic-education-20260625-extraction-assessment-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_extraction_assessment_03.png",
+              "title": "两种方案都可能合理",
+              "description": "不拔牙可用现有空间调整；拔牙可留出空间再关闭，关键是个体评估。"
+            },
+            {
+              "id": "orthodontic-education-20260625-extraction-assessment-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_extraction_assessment_04.png",
+              "title": "决定前看什么？",
+              "description": "拥挤程度、前牙前突、咬合关系、牙周和牙根都需要结合面诊和影像评估。"
+            },
+            {
+              "id": "orthodontic-education-20260625-extraction-assessment-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260625_extraction_assessment_05.png",
+              "title": "别急着下结论",
+              "description": "不是人人都要拔牙，也不是人人都能不拔牙；本图不能替代医生诊断。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260625-loose-bracket",
           "title": "托槽松了怎么办？",
           "description": "用 5 张连续图解释固定矫治器托槽松脱或脱落时的识别和保守处理：先别自行用胶水粘，可拍照记录、保护口腔、用正畸蜡缓解摩擦，避免硬黏韧食物，并联系正畸医生判断是否需要加急处理。内容仅作科普，不能替代面诊和口内检查。",
