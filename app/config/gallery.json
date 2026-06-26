@@ -669,6 +669,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260626",
+          "title": "儿童早期矫治筛查接待：从门诊采集、AI 报告到家长沟通",
+          "description": "聚焦儿童早期矫治筛查的门诊接待流程，把影像采集、AI 筛查报告、医生解释和家长沟通组织成公司宣传级场景，通过明亮诊室、牙椅、儿童患者、家长、医生、标准化影像采集设备和抽象报告界面，表达资料标准化和 AI 沟通支持。",
+          "detail": "聚焦儿童早期矫治筛查的门诊接待流程，把影像采集、AI 筛查报告、医生解释和家长沟通组织成公司宣传级场景，通过明亮诊室、牙椅、儿童患者、家长、医生、标准化影像采集设备和抽象报告界面，表达资料标准化和 AI 沟通支持。三张图片均为原创无文字底图，没有直接复用、拼贴或简单改尺寸现有素材。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260626_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-26",
+          "photos": [
+            {
+              "id": "nextsmile-20260626-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260626_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260626-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260626_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260626-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260626_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260623",
           "title": "口腔美学咨询中的 AI 正畸资料沟通：把微笑诉求、咬合记录和医生解释连接起来",
           "description": "聚焦口腔美学咨询中，患者微笑诉求、面型/牙弓/咬合记录与医生解释之间的沟通场景，通过明亮诊室、牙椅、医生患者沟通、口扫设备和抽象牙颌分析界面，表达 AI 资料标准化对咨询沟通的支持。",
