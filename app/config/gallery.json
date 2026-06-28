@@ -1,5 +1,41 @@
 {
   "categories": {
+    "company-social-backgrounds": {
+      "title": "公司宣传底图",
+      "description": "NextSmile / 爱智美每日原创品牌宣传背景图",
+      "detail": "围绕 AI 正畸会诊、筛查报告、专家支持、门诊咨询转化、资料标准化和患者沟通等业务方向生成的无文字底图素材，便于长期复用。",
+      "albums": [
+        {
+          "id": "company-social-backgrounds-20260628-standardized-records",
+          "title": "正畸资料标准化与患者沟通",
+          "description": "三张原创无文字宣传底图，用于朋友圈、抖音封面和微博横版场景。主题聚焦正畸初诊和复核中，面像、侧貌、牙弓扫描、全景片与医生解释如何组织成同一套可沟通证据。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材，适合后续叠加品牌标识、活动标题、短视频开场字幕或门诊宣传文案。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260628_standardized_records_wide.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-28",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260628-standardized-records-square",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260628_standardized_records_square.png",
+              "title": "朋友圈 / 微博方图底图",
+              "description": "1080 x 1080，无文字，适合后续叠加正畸资料标准化与患者沟通主题文案。"
+            },
+            {
+              "id": "company-social-backgrounds-20260628-standardized-records-vertical",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260628_standardized_records_vertical.png",
+              "title": "抖音竖版封面底图",
+              "description": "1080 x 1920，无文字，上方保留较多标题空间，适合短视频封面。"
+            },
+            {
+              "id": "company-social-backgrounds-20260628-standardized-records-wide",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260628_standardized_records_wide.png",
+              "title": "微博横版 / 视频开场底图",
+              "description": "1920 x 1080，无文字，适合横版微博配图、视频开场或官网宣传横幅。"
+            }
+          ]
+        }
+      ]
+    },
     "orthodontic-education": {
       "title": "正畸科普",
       "description": "面向大众的原创口腔正畸科普图",
