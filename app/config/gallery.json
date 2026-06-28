@@ -42,6 +42,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260628-arch-width",
+          "title": "牙弓窄，一定要扩弓吗？",
+          "description": "用 5 张连续图解释牙弓狭窄与扩弓评估：牙弓窄不能只凭照片判断，需结合横向宽度、后牙咬合关系、年龄和生长阶段，以及模型和影像资料综合评估。后牙反咬、偏侧咀嚼、牙列拥挤或萌出空间不足是需要关注的线索，但不是人人都需要扩弓。内容仅作科普，不能替代医生面诊。",
+          "detail": "牙弓狭窄通常关注上牙弓横向宽度是否不足，以及上下后牙是否能协调咬合。后牙反咬、偏侧咀嚼、牙列拥挤或萌出空间不足等情况需要由正畸医生结合口内检查、模型、咬合关系、年龄和必要影像资料判断。扩弓是可能的处理方式之一，但是否需要、何时做、怎么做，都应个体化评估；不能只凭照片自诊，也不能把扩弓视为所有牙弓窄的固定答案。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260628_arch_width_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-28",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260628-arch-width-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_arch_width_01.png",
+              "title": "牙弓窄，一定要扩弓吗？",
+              "description": "先看宽度、咬合和年龄，不能只凭照片决定是否扩弓。"
+            },
+            {
+              "id": "orthodontic-education-20260628-arch-width-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_arch_width_02.png",
+              "title": "什么是牙弓狭窄？",
+              "description": "上牙弓宽度不足时，后牙可能咬在下牙内侧，是否扩弓需医生测量。"
+            },
+            {
+              "id": "orthodontic-education-20260628-arch-width-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_arch_width_03.png",
+              "title": "常见宽度 vs 牙弓狭窄",
+              "description": "常见状态下上下后牙能协调咬合；牙弓狭窄时上后牙可能在内侧。"
+            },
+            {
+              "id": "orthodontic-education-20260628-arch-width-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_arch_width_04.png",
+              "title": "需要关注什么？",
+              "description": "后牙反咬、偏侧咀嚼、拥挤或萌出空间不足时，儿童生长阶段更要早评估。"
+            },
+            {
+              "id": "orthodontic-education-20260628-arch-width-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_arch_width_05.png",
+              "title": "什么时候面诊？",
+              "description": "发现后牙反咬、牙弓很窄或医生提到扩弓方案时，需结合面诊、模型和影像评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260626-ipr",
           "title": "正畸片切是什么？",
           "description": "用 5 张连续图解释正畸片切（邻面去釉/IPR）：片切不是随便磨牙，而是在医生评估后，对相邻牙齿接触面进行少量、受控的釉质调整，以获得有限空间或改善牙形接触。是否需要片切需结合拥挤程度、牙形、牙釉质、牙周和咬合关系评估，不能只凭图片自诊。",
