@@ -71,6 +71,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260630-double-row-teeth",
+          "title": "孩子长出双排牙怎么办？",
+          "description": "用 5 张连续图解释孩子换牙期常见的“双排牙”：这通常指恒牙已经萌出，但对应乳牙还没有脱落。是否需要处理不能只看照片，要结合牙位、乳牙松动度、恒牙萌出方向、牙列拥挤、咬合关系、年龄和清洁情况评估。持续不掉、位置明显偏、清洁困难或咬合异常时，建议口腔科或正畸相关面诊。",
+          "detail": "“双排牙”是大众说法，常见于恒牙从旁侧或内侧萌出，而相应乳牙仍未脱落的乳牙滞留情境。乳牙滞留不等于一定要立刻拔牙，也不代表一定需要正畸治疗；医生通常会结合口内检查、牙齿松动度、恒牙位置、牙列空间、咬合关系、年龄和必要影像资料判断。家长可关注乳牙是否长期不松、恒牙是否明显偏位、局部是否难清洁或咬合是否异常，但不能只凭图片自诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260630_double_row_teeth_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-30",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260630-double-row-teeth-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_double_row_teeth_01.png",
+              "title": "孩子长出双排牙？",
+              "description": "先看对应乳牙是否滞留，别只凭外观判断需不需要处理。"
+            },
+            {
+              "id": "orthodontic-education-20260630-double-row-teeth-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_double_row_teeth_02.png",
+              "title": "什么是乳牙滞留？",
+              "description": "恒牙已经萌出，但对应乳牙还没有按时脱落。"
+            },
+            {
+              "id": "orthodontic-education-20260630-double-row-teeth-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_double_row_teeth_03.png",
+              "title": "正常替换和双排牙",
+              "description": "一个是乳牙按时脱落后恒牙萌出，一个是恒牙从旁边萌出。"
+            },
+            {
+              "id": "orthodontic-education-20260630-double-row-teeth-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_double_row_teeth_04.png",
+              "title": "需要关注什么？",
+              "description": "乳牙不松、恒牙位置偏或局部清洁困难时，建议咨询医生。"
+            },
+            {
+              "id": "orthodontic-education-20260630-double-row-teeth-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_double_row_teeth_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "持续不掉或咬合异常时，需结合口内检查和必要影像评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260626-attachments",
           "title": "隐形牙套上的小凸点是什么？",
           "description": "用 5 张连续图解释隐形牙套附件：附件通常是接近牙色的树脂小凸点，粘在部分牙齿表面，帮助透明牙套更稳定地传递力量。是否需要附件、贴在哪颗牙、形状和位置如何设计，都应由医生结合牙齿移动方式和治疗计划评估。内容仅作科普，不能替代口内检查和面诊方案。",
