@@ -71,6 +71,88 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260630-wisdom-crowding",
+          "title": "智齿会让牙齿变挤吗？",
+          "description": "用 5 张连续图解释智齿与牙齿拥挤的关系：牙齿变挤通常是多因素结果，不能只凭智齿下结论；阻生或部分萌出的智齿可能带来后牙肿痛、食物嵌塞、龋坏、牙龈炎症等局部问题。是否处理智齿，需要结合口内检查和牙片评估，科普图不能替代面诊。",
+          "detail": "智齿是第三磨牙，位置在牙列最后方。牙齿拥挤或正畸后复发通常与生长变化、牙弓空间、咬合、保持器佩戴等多种因素相关，不应简单归因于智齿。阻生或部分萌出的智齿可能造成局部清洁困难、后牙区疼痛、牙龈炎症、食物嵌塞、龋坏或邻牙风险。是否拔除或保留智齿，应由医生结合口内检查、牙片或影像资料和个体情况综合判断。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260630_wisdom_crowding_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-30",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260630-wisdom-crowding-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_wisdom_crowding_01.png",
+              "title": "智齿会让牙齿变挤吗？",
+              "description": "不要只怪智齿，牙齿变挤可能与生长、牙弓空间和保持器等多因素有关。"
+            },
+            {
+              "id": "orthodontic-education-20260630-wisdom-crowding-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_wisdom_crowding_02.png",
+              "title": "什么是智齿？",
+              "description": "智齿是第三磨牙，位于牙列最后方，是否影响正畸要看位置和清洁风险。"
+            },
+            {
+              "id": "orthodontic-education-20260630-wisdom-crowding-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_wisdom_crowding_03.png",
+              "title": "对比看：不是一个原因",
+              "description": "前牙变挤常是多因素结果；智齿阻生更多提示局部问题和清洁风险。"
+            },
+            {
+              "id": "orthodontic-education-20260630-wisdom-crowding-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_wisdom_crowding_04.png",
+              "title": "这些情况要关注",
+              "description": "后牙反复肿痛、食物嵌塞、智齿或邻牙龋坏、牙龈发炎时建议评估。"
+            },
+            {
+              "id": "orthodontic-education-20260630-wisdom-crowding-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_wisdom_crowding_05.png",
+              "title": "别只凭图片自诊",
+              "description": "牙齿变挤和智齿位置都需要结合面诊、影像和个体化方案判断。"
+            }
+          ]
+        },
+        {
+          "id": "orthodontic-education-20260628-black-triangle",
+          "title": "排齐后看到黑三角怎么办？",
+          "description": "用 5 张连续图解释牙齿排齐后看到黑三角时该怎么看：黑三角通常与接触点下方牙龈乳头没有完全填满有关，相关因素包括牙齿形态、牙龈高度和牙周支持。它不一定危险，但若变大、塞牙明显或伴随牙龈出血、红肿、退缩，应结合口内检查、牙周情况和必要影像评估，不能只凭图片自诊。",
+          "detail": "黑三角也可理解为牙缝根部的三角形暗隙，常见于牙间乳头未完全填满两颗牙接触点下方空间时。排齐牙齿后，它可能因原本拥挤被打开、牙齿形态偏三角、牙龈高度或牙周支持不足而更明显。是否需要处理、如何处理，需由医生结合口内检查、牙周状况、咬合关系和必要影像评估判断；科普图片不能替代面诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260628_black_triangle_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-28",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260628-black-triangle-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_black_triangle_01.png",
+              "title": "排齐后看到黑三角？",
+              "description": "牙缝根部发黑不一定是蛀牙，原因要结合牙形、牙龈和牙周情况看。"
+            },
+            {
+              "id": "orthodontic-education-20260628-black-triangle-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_black_triangle_02.png",
+              "title": "什么是黑三角？",
+              "description": "牙龈乳头没有完全填满两颗牙之间的空隙，看起来像根部的小三角。"
+            },
+            {
+              "id": "orthodontic-education-20260628-black-triangle-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_black_triangle_03.png",
+              "title": "正常填满和根部留空",
+              "description": "牙齿形态、牙龈高度和牙周支持，都会影响牙间乳头是否填满。"
+            },
+            {
+              "id": "orthodontic-education-20260628-black-triangle-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_black_triangle_04.png",
+              "title": "需要关注什么？",
+              "description": "可能塞食物、清洁更费心或笑起来更明显，但原因和大小需要评估。"
+            },
+            {
+              "id": "orthodontic-education-20260628-black-triangle-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260628_black_triangle_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "黑三角变大、塞牙明显，或伴随牙龈出血红肿退缩时，建议面诊评估。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260630-double-row-teeth",
           "title": "孩子长出双排牙怎么办？",
           "description": "用 5 张连续图解释孩子换牙期常见的“双排牙”：这通常指恒牙已经萌出，但对应乳牙还没有脱落。是否需要处理不能只看照片，要结合牙位、乳牙松动度、恒牙萌出方向、牙列拥挤、咬合关系、年龄和清洁情况评估。持续不掉、位置明显偏、清洁困难或咬合异常时，建议口腔科或正畸相关面诊。",
