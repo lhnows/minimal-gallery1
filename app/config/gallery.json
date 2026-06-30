@@ -71,6 +71,88 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260626-attachments",
+          "title": "隐形牙套上的小凸点是什么？",
+          "description": "用 5 张连续图解释隐形牙套附件：附件通常是接近牙色的树脂小凸点，粘在部分牙齿表面，帮助透明牙套更稳定地传递力量。是否需要附件、贴在哪颗牙、形状和位置如何设计，都应由医生结合牙齿移动方式和治疗计划评估。内容仅作科普，不能替代口内检查和面诊方案。",
+          "detail": "隐形牙套附件通常是粘在牙齿表面的牙色树脂小凸点，用来帮助透明矫治器更好贴合或抓握牙齿，并辅助控制某些牙齿移动。有无附件不代表问题一定更严重，也不代表治疗一定更复杂；关键取决于牙齿移动方向、咬合关系、牙周状态和整体治疗计划。戴附件后应注意清洁附件周围，减少色素长期停留；附件掉落、刮嘴或牙套戴不稳时，建议联系正畸医生或正畸团队，不要自行抠、磨或粘。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260626_attachments_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-26",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260626-attachments-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260626_attachments_01.png",
+              "title": "隐形牙套上的小凸点是什么？",
+              "description": "它们通常叫附件，帮助牙套更好抓住牙齿；是否需要要按方案评估。"
+            },
+            {
+              "id": "orthodontic-education-20260626-attachments-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260626_attachments_02.png",
+              "title": "附件是什么？",
+              "description": "附件多为接近牙色的树脂小凸点，粘在部分牙齿表面。"
+            },
+            {
+              "id": "orthodontic-education-20260626-attachments-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260626_attachments_03.png",
+              "title": "有附件，不代表问题更严重",
+              "description": "简单移动时可能不需要；需要更好控制时才可能计划内使用。"
+            },
+            {
+              "id": "orthodontic-education-20260626-attachments-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260626_attachments_04.png",
+              "title": "戴附件后，留意这些小事",
+              "description": "刷干净附件周围，附件掉了先拍照记录，不要用手抠或自己粘。"
+            },
+            {
+              "id": "orthodontic-education-20260626-attachments-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260626_attachments_05.png",
+              "title": "附件要不要贴？别自己判断",
+              "description": "有无附件取决于牙齿移动方式和治疗计划，科普图不能替代面诊。"
+            }
+          ]
+        },
+        {
+          "id": "orthodontic-education-20260629-radiographs",
+          "title": "正畸前为什么要拍片？",
+          "description": "用 5 张连续图解释正畸前影像资料的作用：拍片不是走流程，而是帮助医生看清牙根方向、颌骨空间、埋伏牙线索等照片和口内检查不一定能完整显示的结构。是否拍片、拍哪种片，应由医生结合面诊、年龄、牙列发育阶段、临床检查、病史和风险因素判断。内容仅作科普，不能替代医生面诊。",
+          "detail": "正畸影像资料可辅助观察牙根、颌骨、萌出或埋伏牙等隐藏结构，但影像检查应按需进行，不是越多越好。医生会结合口内检查、面像、咬合关系、模型或扫描、病史和必要影像综合判断方案。孕期、备孕或其他特殊情况应提前告知医生；不能只凭图片或单张片子自诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260629_radiographs_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-29",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260629-radiographs-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260629_radiographs_01.png",
+              "title": "正畸前为什么要拍片？",
+              "description": "不是走流程，是为了看清牙根、骨量和隐藏风险；科普不能替代面诊评估。"
+            },
+            {
+              "id": "orthodontic-education-20260629-radiographs-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260629_radiographs_02.png",
+              "title": "拍片能看见什么？",
+              "description": "照片看牙面，影像可辅助观察牙根方向、颌骨空间和埋伏牙线索。"
+            },
+            {
+              "id": "orthodontic-education-20260629-radiographs-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260629_radiographs_03.png",
+              "title": "只看照片够不够？",
+              "description": "照片和影像各有作用，正畸方案需要多种资料一起判断。"
+            },
+            {
+              "id": "orthodontic-education-20260629-radiographs-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260629_radiographs_04.png",
+              "title": "哪些情况更需要关注？",
+              "description": "牙齿迟迟不萌、牙根位置复杂或颌骨空间不足时，是否拍片需医生结合情况判断。"
+            },
+            {
+              "id": "orthodontic-education-20260629-radiographs-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260629_radiographs_05.png",
+              "title": "拍片也要有边界",
+              "description": "按需拍片、遵医嘱防护，孕期或备孕需告知医生，不能只凭图片自诊。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260628-arch-width",
           "title": "牙弓窄，一定要扩弓吗？",
           "description": "用 5 张连续图解释牙弓狭窄与扩弓评估：牙弓窄不能只凭照片判断，需结合横向宽度、后牙咬合关系、年龄和生长阶段，以及模型和影像资料综合评估。后牙反咬、偏侧咀嚼、牙列拥挤或萌出空间不足是需要关注的线索，但不是人人都需要扩弓。内容仅作科普，不能替代医生面诊。",
@@ -815,6 +897,35 @@
       "description": "爱智美 NextSmile 每日宣传图片",
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
+        {
+          "id": "nextsmile-20260630-02",
+          "title": "动态正畸进展复盘：把每次复诊变化转化为患者可见证据",
+          "description": "爱智美 NextSmile 每日宣传图片",
+          "detail": "爱智美 NextSmile 每日宣传图片",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260630_02_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-30",
+          "photos": [
+            {
+              "id": "nextsmile-20260630-02-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260630_02_original_01.png",
+              "title": "原始无文字背景 / 方图",
+              "description": "NextSmile 方图原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260630-02-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260630_02_original_02.png",
+              "title": "原始无文字背景 / 竖版",
+              "description": "NextSmile 竖版原始 AI 生成无文字背景"
+            },
+            {
+              "id": "nextsmile-20260630-02-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260630_02_original_03.png",
+              "title": "原始无文字背景 / 横版",
+              "description": "NextSmile 横版原始 AI 生成无文字背景"
+            }
+          ]
+        },
         {
           "id": "nextsmile-20260626",
           "title": "儿童早期矫治筛查接待：从门诊采集、AI 报告到家长沟通",
