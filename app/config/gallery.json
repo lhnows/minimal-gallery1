@@ -1021,6 +1021,35 @@
       "detail": "AI 正畸筛查报告、专家会诊支持、门诊沟通转化与口腔美学咨询相关宣传素材。",
       "albums": [
         {
+          "id": "nextsmile-20260630-03",
+          "title": "机构医生智能诊室形象宣传：让 AI 正畸工作台成为门诊专业形象的一部分",
+          "description": "3 张原创无文字公司宣传底图，聚焦现代正畸机构环境、医生团队、牙椅和 AI 正畸工作台，适合朋友圈、抖音封面、微博横版和视频开场使用。",
+          "detail": "本组素材围绕机构与医生专业形象展开，通过明亮诊室、牙椅、医生团队、口扫与影像资料、抽象牙弓模型和智能分析界面，表达门诊数字化升级与可信沟通氛围。图片为原创生成底图，不包含宣传文字，可按渠道后期叠加标题与品牌信息。",
+          "coverImage": "/images/gallery/nextsmile/nextsmile_20260630_03_original_01.png",
+          "photoCount": 3,
+          "createdAt": "2026-06-30",
+          "photos": [
+            {
+              "id": "nextsmile-20260630-03-1",
+              "url": "/images/gallery/nextsmile/nextsmile_20260630_03_original_01.png",
+              "title": "朋友圈 / 微博方图",
+              "description": "现代正畸诊室、医生团队与 AI 工作台的机构宣传方图底图。"
+            },
+            {
+              "id": "nextsmile-20260630-03-2",
+              "url": "/images/gallery/nextsmile/nextsmile_20260630_03_original_02.png",
+              "title": "抖音竖版封面",
+              "description": "牙椅、医生、影像资料和智能分析界面的竖版宣传底图。"
+            },
+            {
+              "id": "nextsmile-20260630-03-3",
+              "url": "/images/gallery/nextsmile/nextsmile_20260630_03_original_03.png",
+              "title": "微博横版 / 视频开场图",
+              "description": "医生团队在智能诊室中查看正畸资料的横版视频开场底图。"
+            }
+          ]
+        },
+        {
           "id": "nextsmile-20260630-02",
           "title": "动态正畸进展复盘：把每次复诊变化转化为患者可见证据",
           "description": "爱智美 NextSmile 每日宣传图片",
