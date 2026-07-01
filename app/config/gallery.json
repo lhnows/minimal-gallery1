@@ -100,6 +100,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260701-facial-asymmetry",
+          "title": "脸看起来歪，是偏颌吗？",
+          "description": "用 5 张连续图解释脸看起来歪、偏斜或咬合偏向一侧时该怎么看：外观不对称可能与牙齿位置、骨骼生长、肌肉习惯和拍摄角度等多因素有关。单侧后牙反咬、咬合偏移、咀嚼偏侧、牙齿磨耗、关节不适、持续变化或疼痛不适时，建议结合面诊、照片、模型和影像综合评估。内容仅作科普，不能替代医生诊断。",
+          "detail": "面部外观偏斜不能只靠自拍或单张照片判断。正畸评估通常需要同时看正脸、牙弓、上下牙咬合关系，并结合照片、模型和必要影像资料。单侧后牙反咬、咬合偏移、咀嚼偏侧、牙齿磨耗或关节不适可能提示需要进一步检查，但具体原因和处理方式必须由医生结合个体情况评估；科普图不能替代面诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260701_facial_asymmetry_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-01",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260701-facial-asymmetry-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_facial_asymmetry_01.png",
+              "title": "脸看起来歪？",
+              "description": "别只靠自拍判断；牙齿、骨骼、肌肉和拍摄角度都可能影响外观，需要面诊评估。"
+            },
+            {
+              "id": "orthodontic-education-20260701-facial-asymmetry-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_facial_asymmetry_02.png",
+              "title": "偏斜要看三件事",
+              "description": "外观看到的歪，可能来自牙齿位置、骨骼生长或肌肉习惯。"
+            },
+            {
+              "id": "orthodontic-education-20260701-facial-asymmetry-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_facial_asymmetry_03.png",
+              "title": "一侧偏移要留意",
+              "description": "单侧后牙反咬、咬合偏移，可能需要进一步检查，不能仅凭图片自诊。"
+            },
+            {
+              "id": "orthodontic-education-20260701-facial-asymmetry-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_facial_asymmetry_04.png",
+              "title": "这些情况要关注",
+              "description": "咀嚼偏侧、后牙反咬、牙齿磨耗或关节不适持续出现时，建议联系正畸医生评估。"
+            },
+            {
+              "id": "orthodontic-education-20260701-facial-asymmetry-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_facial_asymmetry_05.png",
+              "title": "图片不能自诊",
+              "description": "越来越明显、咬合不稳、疼痛不适或儿童生长中，应结合面诊、照片、模型和影像综合判断。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260630-gum-bleeding",
           "title": "正畸期间牙龈出血怎么办？",
           "description": "用 5 张连续图解释正畸期间牙龈出血该怎么看：托槽和弓丝可能增加清洁难度，菌斑停留在牙龈边缘时牙龈可能红肿、刷牙出血。出血不应被简单忽略，也不应因此停止清洁；持续出血、牙龈肿痛流脓、口臭明显或矫治器反复刮伤牙龈时，建议结合口内检查面诊评估。内容仅作科普，不能替代医生诊断。",
