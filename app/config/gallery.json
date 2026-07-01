@@ -6,6 +6,35 @@
       "detail": "围绕 AI 正畸会诊、筛查报告、专家支持、门诊咨询转化、资料标准化和患者沟通等业务方向生成的无文字底图素材，便于长期复用。",
       "albums": [
         {
+          "id": "company-social-backgrounds-20260701-remote-followup-alerts",
+          "title": "隐形矫治远程复诊提醒与异常预警",
+          "description": "三张原创无文字宣传底图，用于朋友圈、抖音封面和微博横版场景。主题聚焦隐形矫治治疗中的远程复诊、佩戴进展跟踪和异常预警，把患者手机拍照上传、AI 牙弓检查点和医生诊室复核连接成随访沟通链路。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材，适合后续叠加品牌标识、活动标题、短视频开场字幕或门诊宣传文案。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260701_remote_followup_alerts_wide.png",
+          "photoCount": 3,
+          "createdAt": "2026-07-01",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260701-remote-followup-alerts-square",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260701_remote_followup_alerts_square.png",
+              "title": "朋友圈 / 微博方图底图",
+              "description": "1080 x 1080，无文字，适合后续叠加隐形矫治远程复诊提醒主题文案。"
+            },
+            {
+              "id": "company-social-backgrounds-20260701-remote-followup-alerts-vertical",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260701_remote_followup_alerts_vertical.png",
+              "title": "抖音竖版封面底图",
+              "description": "1080 x 1920，无文字，上方保留较多标题空间，适合短视频封面。"
+            },
+            {
+              "id": "company-social-backgrounds-20260701-remote-followup-alerts-wide",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260701_remote_followup_alerts_wide.png",
+              "title": "微博横版 / 视频开场底图",
+              "description": "1920 x 1080，无文字，适合横版微博配图、视频开场或官网宣传横幅。"
+            }
+          ]
+        },
+        {
           "id": "company-social-backgrounds-20260629-remote-expert-conversion",
           "title": "专家远程会诊支持下的门诊二次咨询转化",
           "description": "三张原创无文字宣传底图，用于朋友圈、抖音封面和微博横版场景。主题聚焦门诊二次咨询中，医生借助 AI 结构化资料和远程专家复核，把初诊疑问转化为更清晰的下一步沟通。",
@@ -70,6 +99,47 @@
       "description": "面向大众的原创口腔正畸科普图",
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
+        {
+          "id": "orthodontic-education-20260630-gum-bleeding",
+          "title": "正畸期间牙龈出血怎么办？",
+          "description": "用 5 张连续图解释正畸期间牙龈出血该怎么看：托槽和弓丝可能增加清洁难度，菌斑停留在牙龈边缘时牙龈可能红肿、刷牙出血。出血不应被简单忽略，也不应因此停止清洁；持续出血、牙龈肿痛流脓、口臭明显或矫治器反复刮伤牙龈时，建议结合口内检查面诊评估。内容仅作科普，不能替代医生诊断。",
+          "detail": "正畸治疗中，托槽、弓丝或其他矫治器会让托槽周围、弓丝下方和牙龈线附近更难清洁，菌斑更容易停留。牙龈红肿、刷牙出血常提示牙龈可能存在炎症，但具体原因需要医生结合口内检查判断。不要因为出血就完全停止清洁，也不要自行用药或调整矫治器；若出血持续或越来越多，伴随牙龈肿痛、流脓、明显口臭，或矫治器反复刮伤牙龈，应联系正畸医生或口腔医生面诊评估。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260630_gum_bleeding_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-06-30",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260630-gum-bleeding-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_gum_bleeding_01.png",
+              "title": "正畸期间牙龈出血怎么办？",
+              "description": "先别只怪牙套，持续出血可能与菌斑和牙龈炎症有关，需要面诊评估。"
+            },
+            {
+              "id": "orthodontic-education-20260630-gum-bleeding-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_gum_bleeding_02.png",
+              "title": "为什么会出血？",
+              "description": "托槽和弓丝让清洁更难，菌斑停留在牙龈边缘时可能红肿、刷牙出血。"
+            },
+            {
+              "id": "orthodontic-education-20260630-gum-bleeding-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_gum_bleeding_03.png",
+              "title": "健康牙龈和发炎牙龈",
+              "description": "健康牙龈较淡并贴合牙面；发炎牙龈可能红肿、容易出血，示意图不能自诊。"
+            },
+            {
+              "id": "orthodontic-education-20260630-gum-bleeding-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_gum_bleeding_04.png",
+              "title": "常见关注点",
+              "description": "托槽周围、牙龈线和牙缝都要关注，不要因为出血就停止清洁。"
+            },
+            {
+              "id": "orthodontic-education-20260630-gum-bleeding-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260630_gum_bleeding_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "出血持续、牙龈肿痛流脓、口臭明显或矫治器反复刮伤牙龈时建议评估。"
+            }
+          ]
+        },
         {
           "id": "orthodontic-education-20260630-wisdom-crowding",
           "title": "智齿会让牙齿变挤吗？",
