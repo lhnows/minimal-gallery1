@@ -129,6 +129,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260703-periodontal-check",
+          "title": "正畸前为什么先看牙周？",
+          "description": "用 5 张连续图解释正畸前牙周检查的重要性：牙齿移动依赖牙龈、牙周膜和牙槽骨等支持组织。反复出血、红肿、流脓、松动或牙龈退缩时，可能需要先控制炎症并结合面诊、牙周检查和影像资料评估。内容仅作科普，不能替代医生诊断。",
+          "detail": "牙周组织像牙齿的地基，牙龈、牙周膜和牙槽骨共同支撑牙根。正畸加力前需要关注牙周炎症是否稳定、清洁是否可控以及牙槽骨和牙根支持情况。若存在反复出血、红肿、流脓、松动、牙龈退缩或咬合变化，应由医生结合口内检查、牙周探诊和必要影像综合判断；科普图不能替代面诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260703_periodontal_check_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-03",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260703-periodontal-check-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_periodontal_check_01.png",
+              "title": "正畸前，为什么先看牙周？",
+              "description": "牙齿要移动，牙龈和牙槽骨也要稳。"
+            },
+            {
+              "id": "orthodontic-education-20260703-periodontal-check-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_periodontal_check_02.png",
+              "title": "牙周是牙齿的地基",
+              "description": "牙龈、牙周膜、牙槽骨一起支撑牙根。"
+            },
+            {
+              "id": "orthodontic-education-20260703-periodontal-check-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_periodontal_check_03.png",
+              "title": "健康地基 vs 炎症地基",
+              "description": "炎症未控制时，不建议急着加力。"
+            },
+            {
+              "id": "orthodontic-education-20260703-periodontal-check-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_periodontal_check_04.png",
+              "title": "这些信号要关注",
+              "description": "反复出血、红肿、流脓、松动或牙龈退缩。"
+            },
+            {
+              "id": "orthodontic-education-20260703-periodontal-check-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_periodontal_check_05.png",
+              "title": "先评估，再开始",
+              "description": "需结合面诊、牙周检查和影像，科普图不能自诊。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260702-impacted-canine",
           "title": "尖牙迟迟不长，是埋伏牙吗？",
           "description": "用 5 张连续图解释换牙期尖牙迟迟不长该怎么看：一侧尖牙长期不见、牙龈鼓包、牙位偏高或换牙进度明显不对称时，可能需要结合口内检查、照片和牙片评估。迟萌不等于一定埋伏，科普图不能替代医生诊断，也不要自行摇牙或拔牙。",
