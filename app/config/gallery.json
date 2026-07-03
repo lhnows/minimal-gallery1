@@ -6,6 +6,41 @@
       "detail": "围绕 AI 正畸会诊、筛查报告、专家支持、门诊咨询转化、资料标准化和患者沟通等业务方向生成的无文字底图素材，便于长期复用。",
       "albums": [
         {
+          "id": "company-social-backgrounds-20260703-multimodal-expert-hub",
+          "title": "多模态正畸资料进入 AI 报告与专家会诊中枢",
+          "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦口扫、全景片、头影侧貌、口内影像等多模态资料如何进入 AI 报告，并与专家会诊协作共同支持门诊咨询决策。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材。其中两张为无文字底图，两张为图像生成原生文字版；投放或印刷前建议复核图中文字细节。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260703_multimodal_expert_hub_landing_text.png",
+          "photoCount": 4,
+          "createdAt": "2026-07-03",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260703-multimodal-expert-hub-landing-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260703_multimodal_expert_hub_landing_bg.png",
+              "title": "网站落地页背景底图",
+              "description": "1672 x 941，无文字，左侧留白适合官网首屏标题和转化按钮。"
+            },
+            {
+              "id": "company-social-backgrounds-20260703-multimodal-expert-hub-landing-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260703_multimodal_expert_hub_landing_text.png",
+              "title": "网站落地页含字版",
+              "description": "1672 x 941，文字由图像生成，突出爱智美专家会诊平台、AI 影像、专家会诊与门诊转化。"
+            },
+            {
+              "id": "company-social-backgrounds-20260703-multimodal-expert-hub-rollup-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260703_multimodal_expert_hub_rollup_bg.png",
+              "title": "宣传易拉宝背景底图",
+              "description": "941 x 1672，无文字，上方保留标题空间，中部呈现资料流与会诊中枢。"
+            },
+            {
+              "id": "company-social-backgrounds-20260703-multimodal-expert-hub-rollup-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260703_multimodal_expert_hub_rollup_text.png",
+              "title": "宣传易拉宝含字版",
+              "description": "941 x 1672，文字由图像生成，包含 AI 影像分析、多模态口腔数据和专家诊疗协作。"
+            }
+          ]
+        },
+        {
           "id": "company-social-backgrounds-20260703-aesthetic-smile-coordination",
           "title": "口腔美学咨询中的微笑曲线与面部协调",
           "description": "三张原创无文字宣传底图，用于朋友圈、抖音封面和微博横版场景。主题聚焦口腔美学咨询中的微笑曲线、面部协调、唇齿关系和牙弓轮廓可视化，把患者美学诉求、医生解释和 AI 正畸资料连接成清晰沟通场景。",
@@ -277,6 +312,47 @@
               "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_facial_asymmetry_05.png",
               "title": "图片不能自诊",
               "description": "越来越明显、咬合不稳、疼痛不适或儿童生长中，应结合面诊、照片、模型和影像综合判断。"
+            }
+          ]
+        },
+        {
+          "id": "orthodontic-education-20260701-tooth-movement-time",
+          "title": "正畸为什么不能太快？",
+          "description": "用 5 张连续图解释正畸牙齿移动为什么需要时间：牙齿移动依赖牙根周围骨组织改建，不是越用力越好。过急加力可能增加疼痛、牙根或牙周风险；疼痛越来越重、牙齿明显松动、牙龈肿痛流脓或矫治器持续刮伤时，应联系医生评估。内容仅作科普，不能替代面诊、影像资料和医生诊断。",
+          "detail": "正畸牙齿移动依赖受控力量下牙周膜和牙槽骨的生物学反应：一侧骨吸收，另一侧骨形成，牙根周围组织逐步适应。自行缩短换牙套间隔、擅自增加橡皮筋或追求过急加力，可能增加疼痛、牙根或牙周相关风险。治疗进度需要结合口内检查、牙周状态、牙根情况、影像资料和个体方案评估，科普图片不能替代医生诊断。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260701_tooth_movement_time_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-01",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260701-tooth-movement-time-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_tooth_movement_time_01.png",
+              "title": "正畸为什么不能太快？",
+              "description": "牙齿移动需要骨组织改建，不是越用力越好，需要按方案复诊评估。"
+            },
+            {
+              "id": "orthodontic-education-20260701-tooth-movement-time-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_tooth_movement_time_02.png",
+              "title": "牙齿怎么移动？",
+              "description": "一侧骨吸收，另一侧骨形成，牙根周围组织需要慢慢适应。"
+            },
+            {
+              "id": "orthodontic-education-20260701-tooth-movement-time-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_tooth_movement_time_03.png",
+              "title": "稳步移动和过急加力",
+              "description": "按计划小步调整更符合组织适应节奏，过急加力可能增加疼痛、牙根或牙周风险。"
+            },
+            {
+              "id": "orthodontic-education-20260701-tooth-movement-time-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_tooth_movement_time_04.png",
+              "title": "这些信号要联系医生",
+              "description": "疼痛越来越重、牙齿明显松动、牙龈肿痛流脓或矫治器持续刮伤时建议评估。"
+            },
+            {
+              "id": "orthodontic-education-20260701-tooth-movement-time-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260701_tooth_movement_time_05.png",
+              "title": "别自己加快进度",
+              "description": "不要自行换牙套或加橡皮筋，进度要结合面诊和影像评估，科普图不能替代诊断。"
             }
           ]
         },
