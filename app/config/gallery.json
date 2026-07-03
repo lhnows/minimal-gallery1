@@ -35,6 +35,35 @@
           ]
         },
         {
+          "id": "company-social-backgrounds-20260702-summer-teen-screening",
+          "title": "暑期青少年正畸初筛活动现场",
+          "description": "三张原创无文字宣传底图，用于朋友圈、抖音封面和微博横版场景。主题聚焦暑期青少年正畸初筛活动，把前台接待、口扫采集、AI 筛查可视化和医生椅旁解释组织成门诊宣传级场景。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材，适合后续叠加品牌标识、活动标题、短视频开场字幕或门诊宣传文案。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260702_summer_teen_screening_wide.png",
+          "photoCount": 3,
+          "createdAt": "2026-07-02",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260702-summer-teen-screening-square",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260702_summer_teen_screening_square.png",
+              "title": "朋友圈 / 微博方图底图",
+              "description": "1080 x 1080，无文字，适合后续叠加暑期青少年正畸初筛活动主题文案。"
+            },
+            {
+              "id": "company-social-backgrounds-20260702-summer-teen-screening-vertical",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260702_summer_teen_screening_vertical.png",
+              "title": "抖音竖版封面底图",
+              "description": "1080 x 1920，无文字，上方保留较多标题空间，适合短视频封面。"
+            },
+            {
+              "id": "company-social-backgrounds-20260702-summer-teen-screening-wide",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260702_summer_teen_screening_wide.png",
+              "title": "微博横版 / 视频开场底图",
+              "description": "1920 x 1080，无文字，适合横版微博配图、视频开场或官网宣传横幅。"
+            }
+          ]
+        },
+        {
           "id": "company-social-backgrounds-20260701-remote-followup-alerts",
           "title": "隐形矫治远程复诊提醒与异常预警",
           "description": "三张原创无文字宣传底图，用于朋友圈、抖音封面和微博横版场景。主题聚焦隐形矫治治疗中的远程复诊、佩戴进展跟踪和异常预警，把患者手机拍照上传、AI 牙弓检查点和医生诊室复核连接成随访沟通链路。",
