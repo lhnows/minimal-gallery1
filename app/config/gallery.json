@@ -263,6 +263,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260710-caries-before-braces",
+          "title": "正畸前有蛀牙，要先处理吗？",
+          "description": "用 5 张连续图说明正畸前发现蛀牙、疼痛或清洁困难时，为什么建议先做牙科评估。蛀牙早期可能不痛，洞变深、冷热敏感、反复塞食物或补牙材料反复脱落时，需要结合口内检查和必要牙片判断是否先补牙、洗牙或观察。内容仅作科普，不能替代面诊和医生诊断。",
+          "detail": "正畸治疗通常需要稳定的牙齿、牙龈和清洁基础。固定矫治器可能增加部分区域清洁难度，已有龋齿或清洁问题若未评估，可能影响戴牙套后的清洁管理和复诊节奏。是否先处理蛀牙、洗牙或调整正畸启动时机，应由牙医结合检查、牙片、龋病风险和整体矫治计划决定。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260710_caries_before_braces_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-10",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260710-caries-before-braces-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260710_caries_before_braces_01.png",
+              "title": "正畸前有蛀牙？",
+              "description": "龋齿、疼痛或清洁问题，建议先让牙医评估，不要急着直接戴牙套。"
+            },
+            {
+              "id": "orthodontic-education-20260710-caries-before-braces-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260710_caries_before_braces_02.png",
+              "title": "蛀牙是什么？",
+              "description": "牙面被酸慢慢破坏，早期可能不痛，洞变深才明显。"
+            },
+            {
+              "id": "orthodontic-education-20260710-caries-before-braces-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260710_caries_before_braces_03.png",
+              "title": "健康牙面和蛀牙对比",
+              "description": "牙面完整通常更容易清洁；有洞、疼痛或塞食物时不能只凭示意图自诊。"
+            },
+            {
+              "id": "orthodontic-education-20260710-caries-before-braces-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260710_caries_before_braces_04.png",
+              "title": "这些情况要留意",
+              "description": "牙洞变大、冷热敏感、反复塞食物或刷牙难清干净，可能影响戴牙套后的清洁和复诊节奏。"
+            },
+            {
+              "id": "orthodontic-education-20260710-caries-before-braces-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260710_caries_before_braces_05.png",
+              "title": "什么时候建议面诊？",
+              "description": "牙痛、有洞、补牙反复脱落或清洁总是困难时，是否先补牙、洗牙或观察要结合检查决定。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260703-periodontal-check",
           "title": "正畸前为什么先看牙周？",
           "description": "用 5 张连续图解释正畸前牙周检查的重要性：牙齿移动依赖牙龈、牙周膜和牙槽骨等支持组织。反复出血、红肿、流脓、松动或牙龈退缩时，可能需要先控制炎症并结合面诊、牙周检查和影像资料评估。内容仅作科普，不能替代医生诊断。",
