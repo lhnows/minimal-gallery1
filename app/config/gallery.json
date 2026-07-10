@@ -6,6 +6,41 @@
       "detail": "围绕 AI 正畸会诊、筛查报告、专家支持、门诊咨询转化、资料标准化和患者沟通等业务方向生成的无文字底图素材，便于长期复用。",
       "albums": [
         {
+          "id": "company-social-backgrounds-20260710-standardized-to-expert-conversion",
+          "title": "标准化资料采集到专家会诊的连续转化路径",
+          "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把标准化资料采集、AI 影像分析、AI 报告生成、专家诊疗协作和门诊转化串成连续工作流。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材。其中两张为无文字底图，两张为图像生成原生文字版；投放或印刷前建议复核图中文字细节。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260710_standardized_to_expert_conversion_landing_text.png",
+          "photoCount": 4,
+          "createdAt": "2026-07-10",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260710-standardized-to-expert-conversion-landing-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260710_standardized_to_expert_conversion_landing_bg.png",
+              "title": "网站落地页背景底图",
+              "description": "1672 x 941，无文字，适合官网首屏、产品页和会诊平台介绍。"
+            },
+            {
+              "id": "company-social-backgrounds-20260710-standardized-to-expert-conversion-landing-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260710_standardized_to_expert_conversion_landing_text.png",
+              "title": "网站落地页含字版",
+              "description": "1672 x 941，文字由图像生成，突出 AI 正畸、专家会诊和门诊转化路径。"
+            },
+            {
+              "id": "company-social-backgrounds-20260710-standardized-to-expert-conversion-rollup-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260710_standardized_to_expert_conversion_rollup_bg.png",
+              "title": "宣传易拉宝背景底图",
+              "description": "941 x 1672，无文字，适合线下展架、门诊展示和合作沟通。"
+            },
+            {
+              "id": "company-social-backgrounds-20260710-standardized-to-expert-conversion-rollup-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260710_standardized_to_expert_conversion_rollup_text.png",
+              "title": "宣传易拉宝含字版",
+              "description": "941 x 1672，文字由图像生成，包含资料采集、AI 分析、专家协作和转化落地。"
+            }
+          ]
+        },
+        {
           "id": "company-social-backgrounds-20260709-consultation-decision-hub",
           "title": "会诊决策中枢：多模态资料、AI 报告与专家经验同屏协作",
           "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把标准化资料、AI 报告与专家经验组织成门诊咨询决策支持。",
