@@ -333,6 +333,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260711-oral-scan-model",
+          "title": "正畸前为什么要口扫？",
+          "description": "用 5 张连续图说明正畸前口扫或取模不只是留个模型，还可帮助医生观察牙弓形态、牙齿排列、上下牙咬合、空间关系和牙套贴合。口扫/模型只是资料之一，需要结合照片、牙片、面诊和必要检查综合评估；咬合不稳、牙套不贴合或牙齿变化明显时建议面诊。内容仅作科普，不能替代医生诊断。",
+          "detail": "口扫或取模记录的是牙弓、牙位和咬合的三维信息，可作为正畸记录资料帮助医生分析空间、咬合接触、矫治器适配和复诊变化。它不能单独决定治疗方案，也不能替代口内检查、照片、影像资料和医生面诊。具体是否需要处理、如何处理，应由医生结合个体情况评估。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260711_oral_scan_model_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-11",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260711-oral-scan-model-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260711_oral_scan_model_01.png",
+              "title": "正畸前为什么要口扫？",
+              "description": "口扫不只是留个模型，还要帮助观察牙弓、牙位和咬合关系。"
+            },
+            {
+              "id": "orthodontic-education-20260711-oral-scan-model-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260711_oral_scan_model_02.png",
+              "title": "口扫记录什么？",
+              "description": "可记录牙弓形态、牙齿排列和上下牙咬合，但它只是资料之一，不能单独诊断。"
+            },
+            {
+              "id": "orthodontic-education-20260711-oral-scan-model-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260711_oral_scan_model_03.png",
+              "title": "照片和模型一起看",
+              "description": "照片更偏外观，模型更便于看牙弓宽度、拥挤或间隙、咬合接触等细节。"
+            },
+            {
+              "id": "orthodontic-education-20260711-oral-scan-model-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260711_oral_scan_model_04.png",
+              "title": "口扫能帮医生看什么？",
+              "description": "可辅助观察空间是否够、咬合是否稳定、牙套是否贴合，还要结合照片、牙片和面诊。"
+            },
+            {
+              "id": "orthodontic-education-20260711-oral-scan-model-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260711_oral_scan_model_05.png",
+              "title": "这些情况建议面诊",
+              "description": "咬合不稳、牙套不贴合或牙齿变化明显时，建议面诊评估，不能只凭图片或模型自诊。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260710-caries-before-braces",
           "title": "正畸前有蛀牙，要先处理吗？",
           "description": "用 5 张连续图说明正畸前发现蛀牙、疼痛或清洁困难时，为什么建议先做牙科评估。蛀牙早期可能不痛，洞变深、冷热敏感、反复塞食物或补牙材料反复脱落时，需要结合口内检查和必要牙片判断是否先补牙、洗牙或观察。内容仅作科普，不能替代面诊和医生诊断。",
