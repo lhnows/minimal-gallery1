@@ -6,6 +6,41 @@
       "detail": "围绕 AI 正畸会诊、筛查报告、专家支持、门诊咨询转化、资料标准化和患者沟通等业务方向生成的无文字底图素材，便于长期复用。",
       "albums": [
         {
+          "id": "company-social-backgrounds-20260711-consensus-cloud",
+          "title": "多模态病例资料云端汇入专家共识会诊",
+          "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把标准化病例资料、AI 影像分析、AI 报告、远程专家复核和门诊咨询决策组织成云端专家共识会诊路径。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材。其中两张为无文字底图，两张为图像生成原生文字版；投放或印刷前建议复核图中文字细节。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260711_consensus_cloud_landing_text.png",
+          "photoCount": 4,
+          "createdAt": "2026-07-11",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260711-consensus-cloud-landing-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260711_consensus_cloud_landing_bg.png",
+              "title": "网站落地页背景底图",
+              "description": "1672 x 941，无文字，适合官网首屏、产品页和会诊平台介绍。"
+            },
+            {
+              "id": "company-social-backgrounds-20260711-consensus-cloud-landing-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260711_consensus_cloud_landing_text.png",
+              "title": "网站落地页含字版",
+              "description": "1672 x 941，文字由图像生成，突出 AI 正畸会诊平台、多模态资料、AI 报告与专家共识。"
+            },
+            {
+              "id": "company-social-backgrounds-20260711-consensus-cloud-rollup-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260711_consensus_cloud_rollup_bg.png",
+              "title": "宣传易拉宝背景底图",
+              "description": "941 x 1672，无文字，适合线下展架、门诊展示和合作沟通。"
+            },
+            {
+              "id": "company-social-backgrounds-20260711-consensus-cloud-rollup-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260711_consensus_cloud_rollup_text.png",
+              "title": "宣传易拉宝含字版",
+              "description": "941 x 1672，文字由图像生成，包含 AI 影像分析、多模态口腔数据和专家诊疗协作。"
+            }
+          ]
+        },
+        {
           "id": "company-social-backgrounds-20260710-multimodal-consensus",
           "title": "多模态资料汇聚与远程专家共识会诊",
           "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把口内照、全景片、头影侧貌、3D 牙弓扫描、AI 报告和远程专家窗口汇聚为专家共识会诊。",
