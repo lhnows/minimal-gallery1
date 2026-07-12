@@ -403,6 +403,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260712-retainer-lost-cracked",
+          "title": "保持器丢了或裂了怎么办？",
+          "description": "用 5 张连续图解释保持器丢失、裂开或戴不进去时该怎么处理：保持器用于稳定牙位、减少复发风险，丢失或破裂后不建议拖延，也不要自行用胶水粘、自己掰弯或强行硬戴。出现保持器丢失、裂开变形、戴不进去或牙缝变大时，建议尽快联系正畸医生并带上旧件或照片。内容仅作科普，不能替代面诊和医生诊断。",
+          "detail": "保持器的佩戴方式和时长需要按医生方案执行。保持器丢失、裂开、变形或戴不进去时，牙位可能随时间发生变化；是否能继续使用旧保持器、是否需要重做或复诊调整，需要医生结合口内检查、牙位变化和模型或扫描资料综合判断。不要自行修理、强行硬戴或随意停戴，科普图不能替代医生面诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260712_retainer_lost_cracked_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-12",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260712-retainer-lost-cracked-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_retainer_lost_cracked_01.png",
+              "title": "保持器丢了或裂了？",
+              "description": "保持器丢失或破裂后别拖太久，牙位可能会变化。"
+            },
+            {
+              "id": "orthodontic-education-20260712-retainer-lost-cracked-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_retainer_lost_cracked_02.png",
+              "title": "保持器有什么用？",
+              "description": "保持器用于稳定牙位、减少复发，应按医嘱佩戴，不能随意停戴。"
+            },
+            {
+              "id": "orthodontic-education-20260712-retainer-lost-cracked-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_retainer_lost_cracked_03.png",
+              "title": "对比看处理",
+              "description": "建议保留旧件并及时联系医生，避免自己掰弯、强行硬戴或用胶水修理。"
+            },
+            {
+              "id": "orthodontic-education-20260712-retainer-lost-cracked-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_retainer_lost_cracked_04.png",
+              "title": "这些情况尽快联系",
+              "description": "保持器丢失、裂开变形、戴不进去或牙缝变大时，建议先拍照并尽快联系医生。"
+            },
+            {
+              "id": "orthodontic-education-20260712-retainer-lost-cracked-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_retainer_lost_cracked_05.png",
+              "title": "记住三句话",
+              "description": "丢了尽快说，裂了别硬戴，复诊带旧件；每个人保持方案不同，科普图不能替代面诊。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260712-tmj-clicking",
           "title": "张嘴弹响，要不要正畸？",
           "description": "用 5 张连续图解释张口时颞下颌关节弹响这一常见疑问：弹响可能与关节运动、关节盘、肌肉紧张或咬合习惯有关；偶尔响、无痛、能正常张口可先观察，疼痛、卡住、张口受限、咀嚼费力或咬合感觉改变时建议面诊。弹响不等于一定需要正畸，需要结合关节、肌肉、咬合和影像资料综合评估，科普图片不能替代诊断。",
