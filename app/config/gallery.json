@@ -6,6 +6,41 @@
       "detail": "围绕 AI 正畸会诊、筛查报告、专家支持、门诊咨询转化、资料标准化和患者沟通等业务方向生成的无文字底图素材，便于长期复用。",
       "albums": [
         {
+          "id": "company-social-backgrounds-20260712-first-visit-risk-map",
+          "title": "首诊风险预警与患者可理解的方案地图",
+          "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把标准化资料、AI 影像分析、AI 报告、专家会诊和门诊咨询决策组织成患者可理解的首诊风险地图。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材。其中两张为无文字底图，两张为图像生成原生文字版；投放或印刷前建议复核图中文字细节。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260712_first_visit_risk_map_landing_text.png",
+          "photoCount": 4,
+          "createdAt": "2026-07-12",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260712-first-visit-risk-map-landing-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260712_first_visit_risk_map_landing_bg.png",
+              "title": "网站落地页背景底图",
+              "description": "1672 x 941，无文字，适合官网首屏、产品页和首诊风险预警主题页面。"
+            },
+            {
+              "id": "company-social-backgrounds-20260712-first-visit-risk-map-landing-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260712_first_visit_risk_map_landing_text.png",
+              "title": "网站落地页含字版",
+              "description": "1672 x 941，文字由图像生成，突出爱智美 AI 正畸会诊平台、首诊风险解释、AI 报告和咨询决策。"
+            },
+            {
+              "id": "company-social-backgrounds-20260712-first-visit-risk-map-rollup-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260712_first_visit_risk_map_rollup_bg.png",
+              "title": "宣传易拉宝背景底图",
+              "description": "941 x 1672，无文字，适合线下展架、门诊首诊咨询区和合作沟通。"
+            },
+            {
+              "id": "company-social-backgrounds-20260712-first-visit-risk-map-rollup-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260712_first_visit_risk_map_rollup_text.png",
+              "title": "宣传易拉宝含字版",
+              "description": "941 x 1672，文字由图像生成，包含首诊风险预警、AI 影像分析、多模态口腔数据和专家诊疗协作。"
+            }
+          ]
+        },
+        {
           "id": "company-social-backgrounds-20260711-02-correction-loop",
           "title": "诊中纠偏与专家护航闭环",
           "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把标准化资料、AI 报告、专家复核、门诊执行和辅助设计下单组织成诊中纠偏与专家护航闭环。",
@@ -487,6 +522,47 @@
               "url": "/images/gallery/orthodontic-education/orthodontic_education_20260710_caries_before_braces_05.png",
               "title": "什么时候建议面诊？",
               "description": "牙痛、有洞、补牙反复脱落或清洁总是困难时，是否先补牙、洗牙或观察要结合检查决定。"
+            }
+          ]
+        },
+        {
+          "id": "orthodontic-education-20260703-clear-aligner-wear-time",
+          "title": "隐形牙套每天要戴多久？",
+          "description": "用 5 张连续图解释透明矫治器为什么要按医嘱长时间佩戴：通常需要每天约 20-22 小时，取下吃饭刷牙后及时戴回。少戴太久可能影响贴合，牙套戴不下、附件处空隙明显、新牙套长期翘边或酸痛越来越重时，建议联系正畸医生评估。内容仅作科普，不能替代面诊和医生诊断。",
+          "detail": "隐形牙套依赖与牙齿持续、稳定贴合来传递计划内力量。佩戴时间、换牙套节奏和是否需要调整，需结合医生方案、口内检查、附件状态和牙套贴合情况判断。不要自行跳步、硬戴明显不贴合的牙套，或擅自改变更换节奏；科普图不能替代医生面诊。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260703_clear_aligner_wear_time_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-03",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260703-clear-aligner-wear-time-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_clear_aligner_wear_time_01.png",
+              "title": "隐形牙套每天要戴多久？",
+              "description": "通常按医嘱每天约 20-22 小时，取下吃饭刷牙后要及时戴回。"
+            },
+            {
+              "id": "orthodontic-education-20260703-clear-aligner-wear-time-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_clear_aligner_wear_time_02.png",
+              "title": "为什么要戴够时间？",
+              "description": "牙套持续贴合，牙齿才更可能按计划小步移动；少戴太久可能不贴合。"
+            },
+            {
+              "id": "orthodontic-education-20260703-clear-aligner-wear-time-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_clear_aligner_wear_time_03.png",
+              "title": "对比看贴合",
+              "description": "戴够时间时边缘贴住牙面，经常少戴时可能有缝隙或翘边。"
+            },
+            {
+              "id": "orthodontic-education-20260703-clear-aligner-wear-time-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_clear_aligner_wear_time_04.png",
+              "title": "这些情况要留意",
+              "description": "牙套戴不下、附件处空隙明显、新牙套长期翘边或酸痛越来越重时建议联系医生。"
+            },
+            {
+              "id": "orthodontic-education-20260703-clear-aligner-wear-time-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260703_clear_aligner_wear_time_05.png",
+              "title": "先联系医生",
+              "description": "别自行跳步或硬戴；佩戴时间和换牙套节奏要结合面诊和方案，科普图不能替代诊断。"
             }
           ]
         },
