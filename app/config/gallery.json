@@ -403,6 +403,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260712-tmj-clicking",
+          "title": "张嘴弹响，要不要正畸？",
+          "description": "用 5 张连续图解释张口时颞下颌关节弹响这一常见疑问：弹响可能与关节运动、关节盘、肌肉紧张或咬合习惯有关；偶尔响、无痛、能正常张口可先观察，疼痛、卡住、张口受限、咀嚼费力或咬合感觉改变时建议面诊。弹响不等于一定需要正畸，需要结合关节、肌肉、咬合和影像资料综合评估，科普图片不能替代诊断。",
+          "detail": "本组原创正畸科普图聚焦“张嘴弹响是否需要正畸”。医学表述采用审慎语气：没有把单纯弹响诊断为疾病，也没有承诺正畸治疗效果；提醒出现疼痛、卡住、张口受限、咀嚼费力或咬合感觉改变等情况时，应结合面诊、口内检查、关节和肌肉情况、咬合关系及必要影像资料评估。图片由 Codex 内置图像生成工具直接生成，未使用代码后期叠字。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260712_tmj_clicking_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-12",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260712-tmj-clicking-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_tmj_clicking_01.png",
+              "title": "张嘴弹响，要不要正畸？",
+              "description": "先看是否疼、卡、张不开，不要只凭关节声音自诊。"
+            },
+            {
+              "id": "orthodontic-education-20260712-tmj-clicking-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_tmj_clicking_02.png",
+              "title": "弹响是什么？",
+              "description": "弹响多来自颞下颌关节运动，可能与关节盘、肌肉紧张或咬合习惯有关。"
+            },
+            {
+              "id": "orthodontic-education-20260712-tmj-clicking-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_tmj_clicking_03.png",
+              "title": "对比看重点",
+              "description": "偶尔响、无痛且能正常张口可先观察；疼痛、卡住或张口受限建议面诊。"
+            },
+            {
+              "id": "orthodontic-education-20260712-tmj-clicking-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_tmj_clicking_04.png",
+              "title": "这些情况要关注",
+              "description": "关节区或咀嚼肌疼、张口变小、卡住、咀嚼费力或咬合感觉改变时需评估。"
+            },
+            {
+              "id": "orthodontic-education-20260712-tmj-clicking-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260712_tmj_clicking_05.png",
+              "title": "最后提醒",
+              "description": "弹响不等于一定要正畸，评估需要看关节、肌肉、咬合和影像资料。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260711-braces-food",
           "title": "牙套期间怎么吃？",
           "description": "用 5 张连续图说明固定矫治期间为什么要注意硬、黏和大口直接啃咬的食物。托槽和弓丝需要保持稳定，硬咬、黏拉可能让它们松动；切小块、选软食通常更友好。若出现托槽松脱、弓丝扎嘴、矫治器变形或疼痛明显，应联系正畸医生评估。内容仅作科普，不能替代面诊和医生医嘱。",
