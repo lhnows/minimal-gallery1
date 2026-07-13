@@ -6,6 +6,41 @@
       "detail": "围绕 AI 正畸会诊、筛查报告、专家支持、门诊咨询转化、资料标准化和患者沟通等业务方向生成的无文字底图素材，便于长期复用。",
       "albums": [
         {
+          "id": "company-social-backgrounds-20260713-design-order-delivery",
+          "title": "会诊结论到辅助设计下单的方案交付闭环",
+          "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把 AI 报告、专家意见、矫治阶段设计和门诊执行要求转化为辅助设计下单与方案交付路径。",
+          "detail": "本组素材来自每日宣传素材自动化，现有品牌资料、产品介绍、报告样式和业务方向仅作为视觉与主题参考。图片没有直接复用、拼贴或简单改尺寸既有素材。其中两张为无文字底图，两张为图像生成原生文字版；投放或印刷前建议复核图中文字细节。",
+          "coverImage": "/images/gallery/company-social-backgrounds/nextsmile_social_20260713_design_order_delivery_landing_text.png",
+          "photoCount": 4,
+          "createdAt": "2026-07-13",
+          "photos": [
+            {
+              "id": "company-social-backgrounds-20260713-design-order-delivery-landing-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260713_design_order_delivery_landing_bg.png",
+              "title": "网站落地页背景底图",
+              "description": "1672 x 941，无文字，适合官网首屏、产品页和会诊后方案交付主题页面。"
+            },
+            {
+              "id": "company-social-backgrounds-20260713-design-order-delivery-landing-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260713_design_order_delivery_landing_text.png",
+              "title": "网站落地页含字版",
+              "description": "1672 x 941，文字由图像生成，突出爱智美 AI 正畸会诊平台、辅助设计下单和门诊执行。"
+            },
+            {
+              "id": "company-social-backgrounds-20260713-design-order-delivery-rollup-bg",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260713_design_order_delivery_rollup_bg.png",
+              "title": "宣传易拉宝背景底图",
+              "description": "941 x 1672，无文字，适合线下展架、门诊咨询区和合作沟通。"
+            },
+            {
+              "id": "company-social-backgrounds-20260713-design-order-delivery-rollup-text",
+              "url": "/images/gallery/company-social-backgrounds/nextsmile_social_20260713_design_order_delivery_rollup_text.png",
+              "title": "宣传易拉宝含字版",
+              "description": "941 x 1672，文字由图像生成，包含专家会诊、辅助设计下单、AI 影像分析、多模态口腔数据和专家诊疗协作。"
+            }
+          ]
+        },
+        {
           "id": "company-social-backgrounds-20260712-first-visit-risk-map",
           "title": "首诊风险预警与患者可理解的方案地图",
           "description": "四张原创宣传图，用于网站落地页和宣传易拉宝场景。主题聚焦爱智美 AI 正畸会诊平台如何把标准化资料、AI 影像分析、AI 报告、专家会诊和门诊咨询决策组织成患者可理解的首诊风险地图。",
