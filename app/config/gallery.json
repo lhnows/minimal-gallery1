@@ -438,6 +438,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260713-face-shape",
+          "title": "正畸会改变脸型吗？",
+          "description": "用 5 张连续图解释正畸与脸型变化的关系：正畸主要移动牙齿并调整咬合，面型观察还受嘴唇支撑、上下颌关系、年龄和生长发育、肌肉与软组织影响。不能承诺戴牙套就瘦脸，也不能只凭侧脸照自诊；是否适合治疗和可能变化程度，需要结合面诊、模型或口扫、影像和头影测量综合评估。",
+          "detail": "本组科普聚焦大众常问的“正畸会不会改变脸型”。内容强调牙齿位置、咬合关系、嘴唇支撑、颌面发育和软组织共同影响面型观察，拔牙与否和具体方案必须个体化评估。图片仅作科普，不能替代正畸医生面诊和诊断。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260713_face_shape_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-13",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260713-face-shape-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_face_shape_01.png",
+              "title": "正畸会改变脸型吗？",
+              "description": "先看牙齿、咬合和面型关系，科普不能替代面诊。"
+            },
+            {
+              "id": "orthodontic-education-20260713-face-shape-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_face_shape_02.png",
+              "title": "脸型变化从哪来？",
+              "description": "正畸主要移动牙齿并调整咬合，面型还受骨骼、肌肉和软组织影响。"
+            },
+            {
+              "id": "orthodontic-education-20260713-face-shape-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_face_shape_03.png",
+              "title": "变化不一定一样",
+              "description": "牙齿前突影响嘴唇支撑时可能更明显；骨骼和软组织占主导时不一定明显。"
+            },
+            {
+              "id": "orthodontic-education-20260713-face-shape-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_face_shape_04.png",
+              "title": "这些说法要谨慎",
+              "description": "不要把正畸简单理解成瘦脸；拔牙、年龄、咬合和口腔健康都要个体化评估。"
+            },
+            {
+              "id": "orthodontic-education-20260713-face-shape-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_face_shape_05.png",
+              "title": "想改善面型，先做评估",
+              "description": "嘴突明显、咬合不适、换牙异常或担心颌面发育时，建议咨询正畸医生。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260712-retainer-lost-cracked",
           "title": "保持器丢了或裂了怎么办？",
           "description": "用 5 张连续图解释保持器丢失、裂开或戴不进去时该怎么处理：保持器用于稳定牙位、减少复发风险，丢失或破裂后不建议拖延，也不要自行用胶水粘、自己掰弯或强行硬戴。出现保持器丢失、裂开变形、戴不进去或牙缝变大时，建议尽快联系正畸医生并带上旧件或照片。内容仅作科普，不能替代面诊和医生诊断。",
