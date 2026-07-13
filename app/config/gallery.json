@@ -438,6 +438,47 @@
       "detail": "用连续图解说明常见咬合问题、正畸观察与日常护理。内容仅用于健康教育，不能替代口腔检查、影像评估和医生面诊。",
       "albums": [
         {
+          "id": "orthodontic-education-20260713-root-resorption",
+          "title": "正畸会让牙根变短吗？",
+          "description": "用 5 张连续图解释正畸中的牙根吸收监测：正畸治疗中可能出现牙根长度变化，多数变化较轻微，但明显变短或进展性变化需要医生结合影像和面诊评估。牙根情况不能只凭感觉判断，按计划复诊、必要时拍片复查，不自行加力或跳步。内容仅作科普，不能替代医生诊断。",
+          "detail": "牙根吸收是正畸治疗需要监测的风险之一。多数轻微变化通常不一定影响长期健康，但牙根本来较短、牙齿移动距离较大、治疗时间较长、有外伤史或出现异常疼痛等情况，应由正畸医生结合口内检查、影像资料和治疗计划综合评估。科普图片不能替代面诊，也不能作为自行判断严重程度或调整方案的依据。",
+          "coverImage": "/images/gallery/orthodontic-education/orthodontic_education_20260713_root_resorption_01.png",
+          "photoCount": 5,
+          "createdAt": "2026-07-13",
+          "photos": [
+            {
+              "id": "orthodontic-education-20260713-root-resorption-1",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_root_resorption_01.png",
+              "title": "正畸会让牙根变短吗？",
+              "description": "认识牙根吸收监测：多数变化较轻微，但需要结合影像评估。"
+            },
+            {
+              "id": "orthodontic-education-20260713-root-resorption-2",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_root_resorption_02.png",
+              "title": "什么是牙根吸收？",
+              "description": "牙根表面被身体逐步改建，正畸中可能出现轻微变化，通常需要拍片才能发现。"
+            },
+            {
+              "id": "orthodontic-education-20260713-root-resorption-3",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_root_resorption_03.png",
+              "title": "对比看重点",
+              "description": "轻微变化可定期观察；明显变短需要医生评估是否调整方案，不能自行判断严重程度。"
+            },
+            {
+              "id": "orthodontic-education-20260713-root-resorption-4",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_root_resorption_04.png",
+              "title": "哪些情况要关注？",
+              "description": "牙根本来较短、牙齿移动距离较大、治疗时间较长、有外伤史或异常疼痛时，应按时复诊和拍片。"
+            },
+            {
+              "id": "orthodontic-education-20260713-root-resorption-5",
+              "url": "/images/gallery/orthodontic-education/orthodontic_education_20260713_root_resorption_05.png",
+              "title": "最后提醒",
+              "description": "别自行加力或跳步，按计划复诊，异常及时告诉医生；牙根情况要结合影像和面诊。"
+            }
+          ]
+        },
+        {
           "id": "orthodontic-education-20260713-face-shape",
           "title": "正畸会改变脸型吗？",
           "description": "用 5 张连续图解释正畸与脸型变化的关系：正畸主要移动牙齿并调整咬合，面型观察还受嘴唇支撑、上下颌关系、年龄和生长发育、肌肉与软组织影响。不能承诺戴牙套就瘦脸，也不能只凭侧脸照自诊；是否适合治疗和可能变化程度，需要结合面诊、模型或口扫、影像和头影测量综合评估。",
